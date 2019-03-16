@@ -27,18 +27,30 @@ def cached_pull(url, secs_sleep_after_request=None):
 def main():
   url = 'https://wordpress.org/plugins/browse/popular/page/{}/'
   num_pulls = 50
-  shutil.move('plugin_links.txt', 'plugin_links_old.txt')
+  filename = 'plugins1.csv'
+
+  if os.path.exists(filename):
+    shutil.move(filename, filename + '.old')
+
+  with open(filename, 'w') as f:
+    f.write('slug,review_count,avg_rating\n')
+
   for i in range(1, num_pulls):
     print 'pulling page:', i
     html = cached_pull(url.format(i), secs_sleep_after_request=2)
 
     plugin_links = []
-    plugin_regex = '<h2 class="entry-title"><a href="(https://wordpress.org/plugins/.+?/)"'
-    for plugin_match in re.finditer(plugin_regex, html):
-      plugin_links.append(plugin_match.group(1))
+    link_regex = '<h2 class="entry-title"><a href="(https://wordpress.org/plugins/.+?/)"'
+    active_installs_regex = r'([0-9,a-z ]+)\+ active installations   </span>'
+    for link_match, active_installs_match in zip(
+      re.finditer(link_regex, html),
+      re.finditer(active_installs_regex, html),
+    ):
+      plugin_link = link_match.group(1)
+      active_installs = int(re.sub(',', '', active_installs_match.group(1)))
 
-    with open('plugin_links.txt', 'a') as f:
-      f.write('\n'.join(plugin_links) + '\n')
+      with open(filename, 'a') as f:
+        f.write('{},{}\n'.format(plugin_link, active_installs))
 
 if __name__ == '__main__':
   main()

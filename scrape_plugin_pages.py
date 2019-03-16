@@ -15,10 +15,6 @@ review_count_regex = (
 
 avg_rating_regex = r'([0-9\.]+) out of <span itemprop="bestRating">5</span> stars'
 
-class Plugin:
-  def __init__(self):
-    pass
-
 if os.path.exists('plugins.csv'):
   shutil.move('plugins.csv', 'plugins_old.csv')
 
