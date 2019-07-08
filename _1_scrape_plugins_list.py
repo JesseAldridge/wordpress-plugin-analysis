@@ -67,7 +67,12 @@ def main():
         re.finditer(active_installs_regex, html),
       ):
         slug, title = title_match.group(1), title_match.group(2)
-        relevance = 1 if config.get('query_str') and config.get('query_str') in title.lower() else 0
+        relevance = 0
+        query_str = config.get('query_str')
+        if query_str:
+          for term in query_str.split():
+            if term in title.lower():
+              relevance += 1
         print("active_installs:", active_installs_match.group(1))
         active_installs_str = re.sub('Fewer than 10', '0', active_installs_match.group(1))
         active_installs_str = re.sub('N/A', '0', active_installs_str)
