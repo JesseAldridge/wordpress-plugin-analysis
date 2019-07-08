@@ -1,177 +1,618 @@
-slug,active_installs,review_count,avg_rating
-gallery-videos,10000,60,4.7
-slider-video,7000,31,4.7
-portfolio-wp,10000,194,4.4
-fv-wordpress-flowplayer,40000,60,4.4
-wordpress-seo,5000000,26738,4.9
-video-embed-thumbnail-generator,30000,52,4.8
-smart-slider-3,400000,677,4.9
-yotuwp-easy-youtube-embed,10000,144,4.9
-wp-video-lightbox,70000,58,4.4
-responsive-youtube-vimeo-popup,8000,18,4.7
-photo-gallery-portfolio,600,5,4.2
-jetpack,5000000,1409,3.9
-easy-video-player,40000,47,4
-backwpup,600000,853,4.4
-photo-gallery,300000,1226,4.6
-all-in-one-video-gallery,6000,21,4.8
-video-background,20000,53,4.6
-advanced-responsive-video-embedder,60000,135,4.3
-shortcodes-ultimate,800000,4997,4.9
-youtube-embed-plus,200000,410,4.6
-elementor,2000000,3656,4.8
-so-widgets-bundle,1000000,118,4.9
-codeflavors-vimeo-video-post-lite,7000,13,4.8
-wonderplugin-video-embed,6000,3,5
-slider-hero,2000,16,4.8
-ml-slider,900000,538,4.7
-video-user-manuals,30000,1,5
-video-sidebar-widgets,10000,12,4.3
-gt3-photo-video-gallery,9000,36,4.8
-video-popup,10000,19,4.4
-robo-gallery,40000,224,4.4
-flowplayer6-video-player,3000,5,4.6
-wp-photo-album-plus,20000,182,4.6
-player,10000,45,4.3
-html5-video-player,3000,34,4.8
-vimeography,10000,91,4.7
-html5-videogallery-plus-player,4000,12,4.6
-photo-video-gallery-master,7000,14,4.5
-wpmbytplayer,6000,26,4.2
-hdw-player-video-player-video-gallery,2000,11,3.9
-yith-woocommerce-featured-video,7000,20,3.4
-lazy-load-for-videos,8000,69,4.4
-youtube-showcase,6000,81,4.9
-photonic,10000,108,4.7
-new-video-gallery,1000,10,5
-video-grid,2000,9,4.6
-foogallery,100000,352,4.7
-audio-and-video-player,4000,19,3.9
-responsive-video-light,3000,10,5
-meks-video-importer,3000,6,5
-all-in-one-wp-migration,2000000,5902,4.7
-seriously-simple-podcasting,20000,184,4.8
-envira-gallery-lite,100000,1119,4.8
-videographywp,900,5,3.4
-huzzaz-video-gallery,3000,43,4.5
-related-youtube-videos,5000,13,4.8
-duplicator,1000000,2181,4.9
-video-playlist-and-gallery-plugin,8000,54,3.9
-feed-them-social,70000,422,4.7
-woocommerce-html5-video,2000,23,4.6
-accelerated-mobile-pages,100000,842,4.5
-embedpress,6000,13,4.7
-slider-wd,60000,249,4.5
-video-conferencing-with-zoom-api,1000,11,4
-soliloquy-lite,80000,806,4.7
-videojs-html5-player,10000,10,4.8
-oembed-external-video,700,2,5
-wp-rss-aggregator,60000,374,4.4
-video-slider-with-thumbnails,500,2,5
-easy-support-videos,500,7,5
-videowhisper-live-streaming-integration,3000,25,3.9
-woocommerce-product-addon,10000,133,4.5
-rocket-lazy-load,60000,82,4.2
-powerpress,60000,186,4.8
-responsive-videos-fitvids,1000,10,5
-cmp-coming-soon-maintenance,50000,142,4.9
-master-slider,100000,216,4.3
-video-share-vod,700,9,3.9
-photo-video-link-gallery,1000,15,4.5
-featured-videos-for-genesis,600,3,5
-easy-lightbox-wp,2000,7,4
-cm-video-lesson-manager,200,4,4
-instagram-feed,800000,2348,4.9
-mailpoet,100000,534,4.5
-wp-responsive-video-gallery-with-lightbox,1000,3,3.7
-paid-memberships-pro,80000,323,4.2
-gallery-images-ape,6000,93,4.3
-media-slider,1000,17,5
-wp-youtube-lyte,20000,99,4.8
-ductile-responsive-video,400,6,4.8
-wp-video-gallery-free,1000,13,3.6
-super-video-player,300,10,5
-brightcove-video-connect,1000,5,3.4
-video-dashboard,800,3,5
-embed-video-thumbnail,800,9,3.9
-beaver-builder-lite-version,500000,310,4.8
-switch-video-quality,300,7,5
-addons-for-elementor,60000,75,4.8
-coming-soon,900000,3791,5
-h5p,10000,34,5
-skaut-google-drive-gallery,1000,13,4.5
-videowhisper-video-presentation,200,10,4.5
-wp-seopress,60000,392,4.9
-stackable-ultimate-gutenberg-blocks,10000,151,4.9
-lightbox-popup,3000,9,3.2
-brid-video-easy-publish,300,5,4.2
-porn-videos-embed,400,3,3.7
-popup-maker,300000,3156,4.9
-advanced-classifieds-and-directory-pro,4000,66,4.7
-postie,20000,105,4.7
-insert-pages,30000,49,4.8
-wp-all-import,100000,1249,4.7
-wd-instagram-feed,80000,293,4.8
-ultimate-product-catalogue,10000,142,4.6
-wpsso,10000,206,4.6
-the-events-calendar,700000,1667,4.4
-gdpr-cookie-compliance,70000,67,4.4
-youtube-video-player,10000,35,3.5
-videowhisper-video-conference-integration,700,14,4.5
-bulletproof-security,70000,485,4.8
-tc-video-chat,70,0,0
-slide-anything,70000,90,4.6
-embed-clappr,400,3,3.3
-kadence-woocommerce-email-designer,10000,41,4.8
-s3bubble-amazon-web-services-oembed-media-streaming-support,400,9,3.3
-cybersyn,10000,46,4.1
-yourchannel,10000,53,4.7
-automatic-youtube-video-posts,3000,74,3.1
-pixelyoursite,100000,151,4.5
-google-maps-easy,50000,220,4.7
-smartideo,5000,5,5
-wd-youtube,4000,28,4.5
-media-element-html5-video-and-audio-player,20000,25,4.2
-carousel-slider,40000,96,4.1
-advanced-gutenberg,10000,33,4.5
-wd-facebook-feed,40000,172,4.4
-poll-wp,5000,48,4.7
-smart-forms,10000,174,4.5
-wp-instagram-post,5000,30,4.3
-360-video,200,2,3
-tube-video-widget-using-post-meta,70,3,5
-page-scroll-to-id,100000,154,4.9
-clipchamp-video-converter-video-uploader-and-webcam-recorder,400,6,3
-wp-carousel-free,10000,61,4.2
-woo-paypalplus,10000,36,4.1
-ele-custom-skin,8000,38,5
-utubevideo-gallery,1000,9,4.6
-post-grid,60000,91,4.3
-grand-media,20000,248,4.5
-responsive-lightbox,300000,1460,4.9
-youtube-widget-responsive,20000,16,4.9
-filebird,10000,21,4.7
-portfolio-filter-gallery,10000,160,4.8
-woocommerce-hss-extension-for-streaming-video,100,8,4.4
-fitvids-for-wordpress,8000,30,4.7
-premium-addons-for-elementor,100000,284,4.9
-remove-footer-credit,50000,45,4.8
-lazy-loading-responsive-images,5000,30,4.6
-ari-fancy-lightbox,10000,48,4.8
-popup-builder,100000,1164,4.8
-slidedeck,5000,12,4
-masvideos,80,1,5
-woo-variation-gallery,6000,28,4.8
-youtube-embed,20000,14,4.1
-ultimate-faqs,30000,190,4.5
-wp-hapity,100,1,5
-insert-video-with-schemaorg-ivws,200,3,5
-black-studio-tinymce-widget,700000,189,4.8
-foyer,1000,11,5
-slider-by-supsystic,10000,107,4.7
-photo-video-store,200,3,3
-automatic-featured-images-from-videos,9000,24,4.6
-featured-image-from-url,40000,124,4.6
-wonderplugin-slider-lite,10000,18,4.3
-ultimate-social-media-icons,200000,4630,4.9
-video-comments-webcam-recorder,80,3,5
+title,slug,active_installs,relevance,review_count,avg_rating
+Video Gallery &#8211; YouTube Gallery,gallery-videos,10000,1,60,4.7
+Video Slider &#8211; Slider Carousel,slider-video,7000,1,31,4.7
+"GridKit Portfolio Gallery &#8211; Multipurpose portfolio, gallery, video gallery, product catalog, gallery slider",portfolio-wp,10000,1,194,4.4
+FV Flowplayer Video Player,fv-wordpress-flowplayer,40000,1,60,4.4
+Yoast SEO,wordpress-seo,5000000,0,26738,4.9
+Video Embed &amp; Thumbnail Generator,video-embed-thumbnail-generator,30000,1,52,4.8
+Smart Slider 3,smart-slider-3,400000,0,677,4.9
+"Video Gallery &#8211; YouTube Playlist, Channel Gallery by YotuWP",yotuwp-easy-youtube-embed,10000,1,144,4.9
+WP Video Lightbox,wp-video-lightbox,70000,1,58,4.4
+WP Video Popup – Responsive YouTube &amp; Vimeo Video Lightbox,responsive-youtube-vimeo-popup,8000,1,18,4.7
+"WordPress Photo Gallery &#8211; Multipurpose Portfolio, Image Gallery &amp; Video Gallery",photo-gallery-portfolio,600,1,5,4.2
+Jetpack by WordPress.com,jetpack,5000000,0,1409,3.9
+Easy Video Player,easy-video-player,40000,1,47,4
+BackWPup &#8211; WordPress Backup Plugin,backwpup,600000,0,853,4.4
+Photo Gallery by 10Web &#8211; Mobile-Friendly Image Gallery,photo-gallery,300000,0,1226,4.6
+All-in-One Video Gallery,all-in-one-video-gallery,6000,1,21,4.8
+Video Background,video-background,20000,1,53,4.6
+"ARVE Advanced Responsive Video Embedder (YouTube, Vimeo, HTML5 Video &#8230;)",advanced-responsive-video-embedder,60000,1,135,4.3
+Shortcodes Ultimate,shortcodes-ultimate,800000,0,4997,4.9
+YouTube,youtube-embed-plus,200000,0,410,4.6
+Elementor Page Builder,elementor,2000000,0,3656,4.8
+SiteOrigin Widgets Bundle,so-widgets-bundle,1000000,0,118,4.9
+Vimeotheque &#8211; WordPress Vimeo videos,codeflavors-vimeo-video-post-lite,7000,1,13,4.8
+Wonder Video Embed,wonderplugin-video-embed,6000,1,3,5
+"Slider Hero with Animation, Video Background &amp; Intro Maker",slider-hero,2000,1,16,4.8
+MetaSlider,ml-slider,900000,0,538,4.7
+Video User Manuals,video-user-manuals,30000,1,1,5
+Video Sidebar Widgets,video-sidebar-widgets,10000,1,12,4.3
+GT3 Photo Gallery / Video Gallery / Gutenberg Gallery Block,gt3-photo-video-gallery,9000,1,36,4.8
+Video PopUp,video-popup,10000,1,19,4.4
+Image Gallery by Robo – Responsive Photo Gallery,robo-gallery,40000,0,224,4.4
+Flowplayer Video Player,flowplayer6-video-player,3000,1,5,4.6
+WP Photo Album Plus,wp-photo-album-plus,20000,0,182,4.6
+Spider Video Player,player,10000,1,45,4.3
+Html5 Video Player,html5-video-player,3000,1,34,4.8
+Vimeography: Vimeo Video Gallery WordPress Plugin,vimeography,10000,1,91,4.7
+Video gallery and Player,html5-videogallery-plus-player,4000,1,12,4.6
+Photo Video Gallery Master,photo-video-gallery-master,7000,1,14,4.5
+mb.YTPlayer for background videos,wpmbytplayer,6000,1,26,4.2
+HDW Player Plugin (Video Player &amp; Video Gallery),hdw-player-video-player-video-gallery,2000,1,11,3.9
+YITH WooCommerce Featured Video,yith-woocommerce-featured-video,7000,1,20,3.4
+Lazy Load for Videos,lazy-load-for-videos,8000,1,69,4.4
+YouTube Gallery &#8211; Best YouTube Video Gallery for WordPress,youtube-showcase,6000,1,81,4.9
+"Photonic Gallery &amp; Lightbox for Flickr, SmugMug, Google Photos, Zenfolio and Instagram",photonic,10000,0,108,4.7
+"Video Gallery &#8211; YouTube and Vimeo, Link Gallery",new-video-gallery,1000,1,10,5
+Video Grid,video-grid,2000,1,9,4.6
+FooGallery &#8211; Image Gallery WordPress Plugin,foogallery,100000,0,352,4.7
+CP Media Player &#8211; Audio Player and Video Player,audio-and-video-player,4000,1,19,3.9
+Responsive Video Light,responsive-video-light,3000,1,10,5
+Meks Video Importer,meks-video-importer,3000,1,6,5
+All-in-One WP Migration,all-in-one-wp-migration,2000000,0,5902,4.7
+Seriously Simple Podcasting,seriously-simple-podcasting,20000,0,184,4.8
+Gallery Plugin for WordPress &#8211; Envira Photo Gallery,envira-gallery-lite,100000,0,1119,4.8
+WordPress Featured Video &#8211; VideographyWP,videographywp,900,1,5,3.4
+Video Gallery by Huzzaz,huzzaz-video-gallery,3000,1,43,4.5
+Related YouTube Videos,related-youtube-videos,5000,1,13,4.8
+Duplicator &#8211; WordPress Migration Plugin,duplicator,1000000,0,2181,4.9
+"Post video players, slideshow albums, photo galleries and music / podcast playlist",video-playlist-and-gallery-plugin,8000,1,54,3.9
+"Feed Them Social &#8211; Facebook, Instagram, Twitter, YouTube &amp; Pinterest",feed-them-social,70000,0,422,4.7
+WooCommerce HTML5 Video,woocommerce-html5-video,2000,1,23,4.6
+AMP for WP &#8211; Accelerated Mobile Pages,accelerated-mobile-pages,100000,0,842,4.5
+"EmbedPress – Embed Google Docs, Vimeo and Wistia videos, Giphy and Imgur photos, and more",embedpress,6000,1,13,4.7
+Slider by 10Web &#8211; Responsive Image Slider,slider-wd,60000,0,249,4.5
+Video Conferencing with Zoom API,video-conferencing-with-zoom-api,1000,1,11,4
+Slider by Soliloquy &#8211; Responsive Image Slider for WordPress,soliloquy-lite,80000,0,806,4.7
+Videojs HTML5 Player,videojs-html5-player,10000,1,10,4.8
+oEmbed External Video,oembed-external-video,700,1,2,5
+WP RSS Aggregator,wp-rss-aggregator,60000,0,374,4.4
+Video Slider With Thumbnail,video-slider-with-thumbnails,500,1,2,5
+Easy Support Videos &#8211; Embed videos in the admin,easy-support-videos,500,1,7,5
+"Broadcast Live Video &#8211; Live Streaming : HTML5, WebRTC, HLS, RTSP, RTMP",videowhisper-live-streaming-integration,3000,1,25,3.9
+WooCommerce PPOM,woocommerce-product-addon,10000,0,133,4.5
+Lazy Load by WP Rocket,rocket-lazy-load,60000,0,82,4.2
+PowerPress Podcasting plugin by Blubrry,powerpress,60000,0,186,4.8
+Responsive videos &#8211; Fitvids,responsive-videos-fitvids,1000,1,10,5
+CMP &#8211; Coming Soon &amp; Maintenance Plugin by NiteoThemes,cmp-coming-soon-maintenance,50000,0,142,4.9
+Master Slider &#8211; Responsive Touch Slider,master-slider,100000,0,216,4.3
+Video Share VOD &#8211; Turnkey Video Site Builder,video-share-vod,700,1,9,3.9
+"Photo Video Link Gallery &#8211; Images Gallery, YouTube Video Gallery, Light-box Gallery",photo-video-link-gallery,1000,1,15,4.5
+Genesis Featured Video,featured-videos-for-genesis,600,1,3,5
+"Easy Lightbox &#8211; Best Image, Gallery and Video Lightbox for WordPress",easy-lightbox-wp,2000,1,7,4
+Video Lessons Manager,cm-video-lesson-manager,200,1,4,4
+Custom Feeds for Instagram,instagram-feed,800000,0,2348,4.9
+MailPoet &#8211; emails and newsletters in WordPress,mailpoet,100000,0,534,4.5
+video carousel slider with lightbox,wp-responsive-video-gallery-with-lightbox,1000,1,3,3.7
+Paid Memberships Pro,paid-memberships-pro,80000,0,323,4.2
+Photo Gallery &#8211; Image Gallery by Ape,gallery-images-ape,6000,0,93,4.3
+Media Slider &#8211; Image Video Carousal Link Slideshow,media-slider,1000,1,17,5
+WP YouTube Lyte,wp-youtube-lyte,20000,0,99,4.8
+Ductile Responsive Video,ductile-responsive-video,400,1,6,4.8
+WP Video Gallery,wp-video-gallery-free,1000,1,13,3.6
+Super Video Player &#8211; Best wordpress video player,super-video-player,300,1,10,5
+Brightcove Video Connect,brightcove-video-connect,1000,1,5,3.4
+Video Dashboard,video-dashboard,800,1,3,5
+Embed Video Thumbnail,embed-video-thumbnail,800,1,9,3.9
+WordPress Page Builder &#8211; Beaver Builder,beaver-builder-lite-version,500000,0,310,4.8
+Switch Video Quality,switch-video-quality,300,1,7,5
+Livemesh Addons for Elementor,addons-for-elementor,60000,0,75,4.8
+Coming Soon Page &amp; Maintenance Mode by SeedProd,coming-soon,900000,0,3791,5
+Interactive Content – H5P,h5p,10000,0,34,5
+Image and video gallery from Google Drive,skaut-google-drive-gallery,1000,1,13,4.5
+VideoWhisper Video Presentation,videowhisper-video-presentation,200,1,10,4.5
+SEOPress,wp-seopress,60000,0,392,4.9
+Stackable &#8211; Gutenberg Blocks,stackable-ultimate-gutenberg-blocks,10000,0,151,4.9
+"Image and Video Lightbox, Lightbox PopUp",lightbox-popup,3000,1,9,3.2
+Brid Video Easy Publish,brid-video-easy-publish,300,1,5,4.2
+Porn Videos Embed,porn-videos-embed,400,1,3,3.7
+"Popup Maker &#8211; Popup Forms, Optins &amp; More",popup-maker,300000,0,3156,4.9
+Advanced Classifieds &amp; Directory Pro,advanced-classifieds-and-directory-pro,4000,0,66,4.7
+Postie,postie,20000,0,105,4.7
+Insert Pages,insert-pages,30000,0,49,4.8
+Import any XML or CSV File to WordPress,wp-all-import,100000,0,1249,4.7
+10Web Social Feed for Instagram,wd-instagram-feed,80000,0,293,4.8
+Product Catalog,ultimate-product-catalogue,10000,0,142,4.6
+"WPSSO Core &#8211; Advanced Open Graph, Rich Pin, Twitter Card, Social Meta Tags, SEO Rich Results, Schema Markup",wpsso,10000,0,206,4.6
+The Events Calendar,the-events-calendar,700000,0,1667,4.4
+GDPR Cookie Compliance,gdpr-cookie-compliance,70000,0,67,4.4
+"WpDevArt YouTube Embed, Playlist and Popup",youtube-video-player,10000,0,35,3.5
+Webcam Video Conference,videowhisper-video-conference-integration,700,1,14,4.5
+BulletProof Security,bulletproof-security,70000,0,485,4.8
+Tinychat Video Chat,tc-video-chat,70,1,0,0
+Slide Anything &#8211; Responsive Content / HTML Slider and Carousel,slide-anything,70000,0,90,4.6
+Clappr Video Player,embed-clappr,400,1,3,3.3
+Kadence WooCommerce Email Designer,kadence-woocommerce-email-designer,10000,0,41,4.8
+S3Bubble WordPress Video Streaming,s3bubble-amazon-web-services-oembed-media-streaming-support,400,1,9,3.3
+CyberSEO Lite (CyberSyn),cybersyn,10000,0,46,4.1
+YourChannel: Everything you want in a YouTube plugin.,yourchannel,10000,0,53,4.7
+Automatic Youtube Video Posts Plugin,automatic-youtube-video-posts,3000,1,74,3.1
+"PixelYourSite &#8211; Facebook Pixel, Google Analytics, Head &amp; Footer (WooCommerce, EDD, Events)",pixelyoursite,100000,0,151,4.5
+Google Maps Easy,google-maps-easy,50000,0,220,4.7
+Smartideo,smartideo,5000,0,5,5
+10Web YouTube &#8211; Youtube Player and Gallery,wd-youtube,4000,0,28,4.5
+MediaElement.js &#8211; HTML5 Video &amp; Audio Player,media-element-html5-video-and-audio-player,20000,1,25,4.2
+Carousel Slider,carousel-slider,40000,0,96,4.1
+Advanced Gutenberg,advanced-gutenberg,10000,0,33,4.5
+10Web Social Feed for Facebook,wd-facebook-feed,40000,0,172,4.4
+Responsive Poll,poll-wp,5000,0,48,4.7
+Smart Forms &#8211; when you need more than just a contact form,smart-forms,10000,0,174,4.5
+WP Post And Widget For Instagram,wp-instagram-post,5000,0,30,4.3
+Algori 360 Video,360-video,200,1,2,3
+Related Video Widget For Post From Youtube,tube-video-widget-using-post-meta,70,1,3,5
+Page scroll to id,page-scroll-to-id,100000,0,154,4.9
+"Video Recorder, Video Converter &amp; Video Uploader",clipchamp-video-converter-video-uploader-and-webcam-recorder,400,1,6,3
+WordPress Carousel &#8211; Responsive Image Slider for WordPress,wp-carousel-free,10000,0,61,4.2
+PayPal Plus for WooCommerce,woo-paypalplus,10000,0,36,4.1
+Elementor Custom Skin,ele-custom-skin,8000,0,38,5
+uTubeVideo Gallery,utubevideo-gallery,1000,1,9,4.6
+Post Grid,post-grid,60000,0,91,4.3
+Gmedia Photo Gallery,grand-media,20000,0,248,4.5
+Responsive Lightbox &amp; Gallery,responsive-lightbox,300000,0,1460,4.9
+Youtube Widget Responsive,youtube-widget-responsive,20000,0,16,4.9
+FileBird &#8211; WordPress Media Library Folders,filebird,10000,0,21,4.7
+Portfolio Gallery &#8211; Image Gallery WordPress Plugin,portfolio-filter-gallery,10000,0,160,4.8
+WooCommerce HSS Extension for Streaming Video,woocommerce-hss-extension-for-streaming-video,100,1,8,4.4
+FitVids for WordPress,fitvids-for-wordpress,8000,0,30,4.7
+Premium Addons for Elementor,premium-addons-for-elementor,100000,0,284,4.9
+Remove Footer Credit,remove-footer-credit,50000,0,45,4.8
+Lazy Loader,lazy-loading-responsive-images,5000,0,30,4.6
+ARI Fancy Lightbox &#8211; WordPress Popup,ari-fancy-lightbox,10000,0,48,4.8
+Popup Builder &#8211; Responsive WordPress Pop up &#8211; Subscription &amp; Newsletter,popup-builder,100000,0,1164,4.8
+SlideDeck &#8211; Responsive WordPress Slider Plugin,slidedeck,5000,0,12,4
+MAS Videos,masvideos,80,1,1,5
+Additional Variation Images for WooCommerce,woo-variation-gallery,6000,0,28,4.8
+YouTube Embed,youtube-embed,20000,0,14,4.1
+Ultimate FAQ,ultimate-faqs,30000,0,190,4.5
+Free Livestream – Live Video Streaming with Hapity,wp-hapity,100,1,1,5
+Insert Video with Schema.org (IVS),insert-video-with-schemaorg-ivws,200,1,3,5
+Black Studio TinyMCE Widget,black-studio-tinymce-widget,700000,0,189,4.8
+Foyer &#8211; Digital Signage for WordPress,foyer,1000,0,11,5
+Slider by Supsystic,slider-by-supsystic,10000,0,107,4.7
+Photo Video Store,photo-video-store,200,1,3,3
+Automatic Featured Images from Videos,automatic-featured-images-from-videos,9000,1,24,4.6
+Featured Image from URL,featured-image-from-url,40000,0,124,4.6
+Wonder Slider Lite,wonderplugin-slider-lite,10000,0,18,4.3
+Social Media Share Buttons &amp; Social Sharing Icons,ultimate-social-media-icons,200000,0,4630,4.9
+Video Comments Webcam Recorder,video-comments-webcam-recorder,80,1,3,5
+Crelly Slider,crelly-slider,20000,0,100,4.9
+YouTube Video Importer Lite,yt-video-importer-lite,100,1,1,3
+Gallery Box,gallery-box,2000,0,19,4.7
+Event Calendar &#8211; Responsive Calendar,calendar-event,3000,0,73,4.7
+WordPress Simple PayPal Shopping Cart,wordpress-simple-paypal-shopping-cart,40000,0,160,4.6
+Customer Reviews for WooCommerce,customer-reviews-woocommerce,10000,0,285,4.9
+Livemesh SiteOrigin Widgets,livemesh-siteorigin-widgets,30000,0,78,4.7
+Mykraft Responsive Video Shortcode,mykraft-responsive-video-shortcode,100,1,1,5
+Event Timeline &#8211; Vertical Timeline,rich-event-timeline,1000,0,7,4.3
+Stripe Payments,stripe-payments,10000,0,28,4.7
+Responsive video embed,responsive-video-embed,200,1,1,5
+White Label CMS,white-label-cms,100000,0,73,4.7
+Embed videos and respect privacy,video-embed-privacy,5000,1,10,4
+Contact Widgets,contact-widgets,600000,0,13,4.6
+Revive Old Posts &#8211; Auto Post to Social Media,tweet-old-post,50000,0,371,3.9
+Yasr &#8211; Yet Another Stars Rating,yet-another-stars-rating,20000,0,198,4.7
+Supaz Easy Background &#8211; Easy way to add parallax image or video background,supaz-easy-background,300,1,4,4.5
+Image Photo Gallery Final Tiles Grid,final-tiles-grid-gallery-lite,30000,0,252,4.8
+MainWP Child,mainwp-child,300000,0,59,4.9
+Frontend Dashboard,frontend-dashboard,1000,0,99,5
+Gallery Photo Video,gallery-photo-video,600,1,16,4.8
+Post Gallery,simple-post-gallery,3000,0,9,4.4
+Auto Last Youtube Video,auto-last-youtube-video,500,1,6,4.2
+"Folders &#8211; Organize Pages, Posts and Media Library Folders with Drag and Drop",folders,8000,0,42,4.9
+PickPlugins Product Slider for WooCommerce,woocommerce-products-slider,20000,0,62,4.5
+Woocommerce Product Addons,woo-custom-product-addons,7000,0,62,5
+WordPress Slider Plugin &#8211; WP 1 Slider,wp-1-slider,10000,0,8,4
+Advanced WordPress Backgrounds,advanced-backgrounds,10000,0,15,4.9
+WP Responsive Testimonials Slider And Widget,wp-responsive-testimonials-slider-and-widget,400,0,4,5
+PressPermit,press-permit-core,5000,0,33,3.9
+Video Posts Webcam Recorder,video-posts-webcam-recorder,100,1,6,5
+Livemesh Addons for WPBakery Page Builder,addons-for-visual-composer,20000,0,28,4.1
+Advanced Product Labels for WooCommerce,advanced-product-labels-for-woocommerce,7000,0,54,5
+WP Videos,video-sync-for-vimeo,500,1,0,0
+"Styles &amp; Layouts for Gravity Forms &#8211; Best Gravity Forms Styler, Designer",styles-and-layouts-for-gravity-forms,20000,0,59,4.3
+WordPress Video Sticky,wp-video-sticky,100,1,2,4.5
+Options for Twenty Seventeen,options-for-twenty-seventeen,4000,0,14,5
+Advanced AJAX Product Filters,woocommerce-ajax-filters,10000,0,61,4.5
+Fast Video and Image Display,fast-video-and-image-display,60,1,4,5
+Maintenance,maintenance,400000,0,219,4.4
+"WP-VR-view &#8211; Add Photo Sphere, 360 video to WordPress",wp-vr-view,10000,1,25,3.8
+WP101,wp101,10000,0,10,4.2
+a3 Lazy Load,a3-lazy-load,100000,0,110,4.3
+My WP Translate,my-wp-translate,10000,0,12,5
+Simple YouTube Embed,simple-youtube-embed,8000,0,12,4.4
+Tutor LMS &#8211; eLearning and online course solution,tutor,700,0,10,5
+Google Video Sitemap Feed With Multisite Support,google-video-sitemap-feed-with-multisite-support,7000,1,6,3
+Niso Carousel Slider,niso-carousel-slider,900,0,5,5
+MediaPress,mediapress,2000,0,27,4.9
+HSS Embed Streaming Video,hss-embed-streaming-video,60,1,3,5
+Portfolio Designer – WordPress Portfolio Plugin (Image/Video/Slider Gallery),portfolio-designer-lite,200,1,4,4
+Load More Anything,ajax-load-more-anything,1000,0,20,4.4
+WordPress SEO Plugin &#8211; Rank Math,seo-by-rank-math,60000,0,392,4.9
+Accordion,accordions,30000,0,64,4.5
+Essential Real Estate,essential-real-estate,4000,0,24,4.5
+video-with-ads,video-with-ads,20,1,0,0
+Image vertical reel scroll slideshow,image-vertical-reel-scroll-slideshow,1000,0,2,5
+Motors &#8211; Car Dealer &amp; Classified Ads WordPress Plugin,motors-car-dealership-classified-listings,10000,0,9,3.4
+FooBox Image Lightbox WordPress Plugin,foobox-image-lightbox,100000,0,61,3.7
+Unite Gallery Lite,unite-gallery-lite,20000,0,48,4.6
+Essential Addons for Elementor,essential-addons-for-elementor-lite,200000,0,567,4.8
+WP VR &#8211; 360 Panorama and virtual tour creator for WordPress,wpvr,2000,0,18,4.3
+Ninja Tables &#8211; Best WP Data Table Plugin for WordPress,ninja-tables,30000,0,86,4.4
+Ultimate Maps by Supsystic,ultimate-maps-by-supsystic,3000,0,20,4.8
+Video Central for WordPress,video-central,700,1,5,4.2
+wpDataTables Lite &#8211; WordPress Table Plugin,wpdatatables,20000,0,22,3
+Videos,videos,300,1,0,0
+Extra Privacy for Elementor,extra-privacy-for-elementor,1000,0,3,5
+.TUBE Video Curator,tube-video-curator,700,1,13,4.4
+Product Gallery Slider for Woocommerce,woo-product-gallery-slider,7000,0,23,4.5
+Responsive Filterable Portfolio,responsive-filterable-portfolio,3000,0,13,4.7
+Material Design for Contact Form 7,material-design-for-contact-form-7,10000,0,49,4.3
+Sitemap Generator,mb-sitemap-generator,10000,0,16,3.6
+Photo Gallery Slideshow &amp; Masonry Tiled Gallery,wp-responsive-photo-gallery,3000,0,7,4.3
+MetaSlider Lightbox,ml-slider-lightbox,10000,0,7,4.7
+WP Smart TV,wp-smart-tv,800,0,7,5
+Sermon Manager,sermon-manager-for-wordpress,10000,0,39,4
+Pods &#8211; Custom Content Types and Fields,pods,70000,0,262,4.9
+Kadence Blocks – Gutenberg Page Builder Toolkit,kadence-blocks,30000,0,37,5
+3CX Live Chat and Talk,3cx-live-chat-talk,1000,0,7,5
+WebinarPress,wp-webinarsystem,2000,0,21,4
+Advanced File Manager,file-manager-advanced,20000,0,99,4.7
+Popup by Supsystic,popup-by-supsystic,30000,0,307,4.7
+WordPress Tooltips,wordpress-tooltips,4000,0,46,4
+Create by Mediavine,mediavine-create,2000,0,9,5
+"WP Offload Media Lite for Amazon S3, DigitalOcean Spaces, and Google Cloud Storage",amazon-s3-and-cloudfront,40000,0,65,4.1
+CB Change Mail Sender,cb-change-mail-sender,20000,0,10,4.6
+Preloader,the-preloader,20000,0,28,4.6
+WP Video Enhanced,wp-video-enhanced,100,1,4,5
+Gallery &#8211; Flagallery Photo Portfolio,flash-album-gallery,20000,0,98,4
+Clicky Analytics,clicky-analytics,10000,0,17,4.6
+AvgBot,avgbot-auto-video-grabber,100,0,4,4
+Easy Digital Downloads HSS Extension for Streaming Video,easydigitaldownloads-hoststreamsell-extension,60,1,4,5
+Media from FTP,media-from-ftp,20000,0,59,4.6
+Blue Admin,blue-admin,2000,0,6,5
+Schema &#8211; All In One Schema Rich Snippets,all-in-one-schemaorg-rich-snippets,90000,0,144,4.2
+Polo Video Gallery &#8211; Best wordpress video gallery plugin,polo-video-gallery,0,1,2,5
+Video Destacado,video-destacado,200,1,4,5
+WPB WooCommerce Product Slider,wpb-woocommerce-product-slider,9000,0,31,4
+Wistia WordPress Plugin,wistia-wordpress-oembed-plugin,7000,0,8,3.1
+JW Player for WordPress,jw-player-7-for-wp,4000,0,27,3.9
+Data Tables Generator by Supsystic,data-tables-generator-by-supsystic,30000,0,402,4.9
+"Nextend Social Login and Register (Facebook, Google, Twitter)",nextend-facebook-connect,200000,0,163,4.8
+Srizon Responsive Youtube Album,srizon-responsive-youtube-album,2000,0,13,4.7
+Accessible Video Library,accessible-video-library,100,1,3,5
+Load More Products for WooCommerce,load-more-products-for-woocommerce,7000,0,64,4.9
+WordPress Download Manager,download-manager,100000,0,668,4.1
+Fusion Page Builder : Extension &#8211; Video,fusion-extension-video,600,1,0,0
+WooCommerce Featured Video,woo-featured-video,500,1,6,5
+WooCommerce Custom Product Tabs Lite,woocommerce-custom-product-tabs-lite,10000,0,28,4.4
+Contact Form by BestWebSoft,contact-form-plugin,100000,0,284,4
+Coming Soon by Supsystic,coming-soon-by-supsystic,6000,0,54,4.7
+Webcam 2Way Videochat,webcam-2way-videochat,200,1,3,5
+"Gallery &#8211; WordPress Gallery, Photo Gallery",new-photo-gallery,2000,0,15,5
+Markup (JSON-LD) structured in schema.org,wp-structuring-markup,20000,0,41,4.7
+Schema App Structured Data,schema-app-structured-data-for-schemaorg,10000,0,28,4
+Workbox Video from Vimeo &amp; Youtube Plugin,workbox-video-from-vimeo-youtube-plugin,800,1,10,3.7
+Nemus Slider,nemus-slider,1000,0,14,4.5
+Ivory Search &#8211; WordPress Search Plugin,add-search-to-menu,20000,0,173,4.9
+Custom Icons for Elementor,custom-icons-for-elementor,30000,0,23,4.5
+FA Video Popup,fa-video-popup,300,1,2,5
+Alphabetic Pagination,alphabetic-pagination,1000,0,60,4.8
+Schema &amp; Structured Data for WP &amp; AMP,schema-and-structured-data-for-wp,10000,0,60,4.6
+Min and Max Quantity for WooCommerce,minmax-quantity-for-woocommerce,6000,0,38,4.8
+WordPress Colorbox Lightbox,wp-colorbox,10000,0,22,4.3
+User Profile Picture,metronet-profile-picture,40000,0,37,4.6
+OpenTickets Community Edition,opentickets-community-edition,1000,0,40,3.6
+Responsive Lightbox,responsive-lightbox-lite,20000,0,32,4.6
+Under Construction,under-construction-page,300000,0,1197,4.9
+Link Checker,link-checker,10000,0,18,3.7
+Contact Form 7 &#8211; PayPal &amp; Stripe Add-on,contact-form-7-paypal-add-on,10000,0,59,4.4
+WP Recipe Maker,wp-recipe-maker,20000,0,105,5
+Google Captcha (reCAPTCHA) by BestWebSoft,google-captcha,200000,0,309,4.1
+InfiniteWP Client,iwp-client,300000,0,106,4.4
+Simple Link Directory,simple-link-directory,2000,0,68,4.7
+Images Slideshow by 2J &#8211; Image Slider,2j-slideshow,4000,0,52,4.1
+Responsive Slider by MotoPress,motopress-slider-lite,5000,0,17,4.5
+"Popup Maker &#8211; Responsive popup, Exit Intent Pop up, Email Optins, Autoresponder &amp; More",popup-maker-wp,5000,0,66,4.5
+WooCommerce Conversion Tracking,woocommerce-conversion-tracking,20000,0,13,3.7
+"s2Member Framework (Member Roles, Capabilities, Membership, PayPal Members)",s2member,20000,0,189,3.9
+Slideshow CK,slideshow-ck,4000,0,7,4.4
+Pricing Table by Supsystic,pricing-table-by-supsystic,30000,0,214,4.5
+WP Datepicker,wp-datepicker,6000,0,27,4.6
+Event Calendar WD &#8211; Responsive Event Calendar plugin,event-calendar-wd,30000,0,195,4.6
+YouTube Playlist Player,youtube-playlist-player,1000,0,12,4.5
+FA Lite &#8211; WP responsive slider plugin,featured-articles-lite,2000,0,12,3.6
+Discount Rules for WooCommerce,woo-discount-rules,10000,0,149,4.7
+MomentoPress for Momento360,cmyee-momentopress,1000,0,1,5
+Magic Embeds,wp-embed-facebook,10000,0,39,3.9
+Youtube Video Search,youtube-post-search,50,1,3,5
+Simple YouTube Responsive,simple-youtube-responsive,2000,0,6,5
+User Post Gallery &#8211; UPG,wp-upg,1000,0,16,4.2
+Custom Login Page Customizer | LoginPress,loginpress,60000,0,231,4.8
+WP Shortcode by MyThemeShop,wp-shortcode,50000,0,8,3.4
+WordPress File Upload,wp-file-upload,20000,0,80,4.6
+Photo Gallery by Supsystic,gallery-by-supsystic,70000,0,397,4.8
+Smooth Slider,smooth-slider,10000,0,101,4.3
+OT Flatsome Vertical Menu,ot-flatsome-vertical-menu,7000,0,14,4.9
+Gallery – Photo Albums Plugin,easy-media-gallery,9000,0,276,3.8
+Ultimate Gallery Master,ultimate-gallery-master,4000,0,7,4.1
+Exit Popup,exit-popup,4000,0,18,4.3
+WP Notification Bars,wp-notification-bars,20000,0,28,4
+Layer Slider,slider-slideshow,4000,0,19,3.6
+Premium Blocks for Gutenberg,premium-blocks-for-gutenberg,4000,0,22,5
+PDF &amp; Print by BestWebSoft,pdf-print,10000,0,73,4.2
+Quick Adsense,quick-adsense,100000,0,72,4
+Genesis Dambuster,genesis-dambuster,10000,0,30,4.9
+"Arrow YouTube Feed, Youtube Channel Feed",add-youtube-feed,1000,0,2,3
+Shortcodes and extra features for Phlox theme,auxin-elements,40000,0,0,0
+YouTube Channel,youtube-channel,10000,0,36,4.3
+Video Recorder,video-capture,0,1,24,4.4
+2Checkout Payment Gateway for WooCommerce,woocommerce-2checkout-payment,2000,0,14,4.1
+Tiny carousel horizontal slider plus,tiny-carousel-horizontal-slider-plus,2000,0,3,5
+Docxpresso,docxpresso,6000,0,25,4.6
+Postmark for WordPress,postmark-approved-wordpress-plugin,10000,0,15,5
+New Google Plus Badge Widget,new-google-plus-badge-widget,10000,0,12,4.6
+Bradmax Player,bradmax-player,300,0,4,4.8
+Image Hover Effects Addon for Elementor,image-hover-effects-addon-for-elementor,9000,0,13,4.9
+Live Chat by Customerly &#8211; Free Live Chat Plugin,customerly,500,0,8,4.5
+Google Sitemap by BestWebSoft,google-sitemap-plugin,70000,0,111,4.3
+Import YouTube videos as WP Posts,import-youtube-videos-as-wp-post,1000,1,8,3.5
+VdoCipher,vdocipher,500,0,6,4.7
+Ultimate Carousel For WPBakery Page Builder (formerly Visual Composer),ultimate-carousel-for-visual-composer,10000,0,13,4.8
+OWL Carousel Slider,lgx-owl-carousel,1000,0,11,3.9
+Genesis Layout Extras &#8211; Default Layouts in Genesis for WordPress,genesis-layout-extras,10000,0,7,5
+YouTube Gallery &#8211; YouTube Channel,yottie-lite,4000,0,5,3
+"WP Coder &#8211; add custom html, css and js code",wp-coder,3000,0,5,5
+Visitors Online by BestWebSoft,visitors-online,3000,0,6,4.3
+Hide Related Video Youtube,hide-related-video-youtube,600,1,0,0
+LoftLoader,loftloader,10000,0,16,4.7
+Insert Post Ads,insert-post-ads,20000,0,19,4.4
+Carousel Anything For WPBakery Page Builder (formerly Visual Composer),carousel-anything,800,0,1,5
+Gallery by BestWebSoft,gallery-plugin,40000,0,157,4
+Product Slider,product-slider,900,0,5,4.2
+Testimonial Rotator,testimonial-rotator,50000,0,78,4.4
+Social Media Share Buttons | MashShare,mashsharer,70000,0,954,4.8
+Orion SMS OTP Verification,orion-sms-otp-verification,1000,0,63,4.8
+WooCommerce PayPal Pro Payment Gateway,woocommerce-paypal-pro-payment-gateway,5000,0,6,4.3
+Popup anything on click,popup-anything-on-click,20000,0,26,4.4
+Unfiltered MU,unfiltered-mu,7000,0,10,4.9
+WordPress Gallery MaxGalleria,maxgalleria,5000,0,57,4.4
+Hero Banner Ultimate,hero-banner-ultimate,500,0,1,5
+Content Egg,content-egg,20000,0,19,4.5
+WordPress Landing Page &#8211; Squeeze Page &#8211; Responsive Landing Page Builder Free &#8211; WP Lead Plus X,free-sales-funnel-squeeze-pages-landing-page-builder-templates-make,7000,0,4,4
+WP Modal Popup with Cookie Integration,wp-modal-popup-with-cookie-integration,3000,0,8,4.5
+WP Tab Widget,wp-tab-widget,70000,0,31,4.5
+DsgnWrks Importer for Instagram,dsgnwrks-instagram-importer,4000,0,34,4.2
+GS Logo Slider,gs-logo-slider,10000,0,76,4.7
+Brands for WooCommerce,brands-for-woocommerce,800,0,6,5
+Dynamic Conditions,dynamicconditions,2000,0,16,5
+PPV Live Webcams &#8211; Paid Videochat,ppv-live-webcams,100,1,9,4.4
+Advanced WooCommerce Product Gallery Slider,advanced-woocommerce-product-gallery-slider,1000,0,5,4.2
+Simple User Registration,wp-registration,1000,0,26,4.5
+"rtMedia for WordPress, BuddyPress and bbPress",buddypress-media,20000,0,135,3.8
+Sina Extension for Elementor,sina-extension-for-elementor,1000,0,4,5
+Post Sliders &amp; Post Grids,post-slider-carousel,2000,0,3,5
+ManageWP Worker,worker,800000,0,508,4.8
+Aparat,aparat,3000,0,10,5
+Pearl Header Builder,pearl-header-builder,6000,0,5,4.8
+Enjoy Instagram feed with Widget and Shortcode on WordPress website,enjoy-instagram-instagram-responsive-images-gallery-and-carousel,10000,0,71,4.3
+ImageLinks Interactive Image Builder for WordPress,imagelinks-interactive-image-builder-lite,2000,0,8,4.3
+OG,og,10000,0,71,4.8
+Social Media Flying Icons | Floating Social Media Icon,floating-social-media-icon,30000,0,575,4.8
+Free Responsive iframe Video Embeds,free-responsive-iframe-video-embeds,300,1,1,5
+Livemesh Addons for Beaver Builder,addons-for-beaver-builder,3000,0,9,5
+VenoBox Lightbox,venobox-lightbox,1000,0,8,4.4
+Simple Documentation,client-documentation,800,0,15,4
+Velocity &#8211; WordPress Lazy Load for Video and Audio,velocity,500,1,4,5
+WP Google Analytics Events,wp-google-analytics-events,20000,0,29,4.6
+WordPress fancyBox Lightbox,wp-fancybox,600,0,2,5
+Modula Image Gallery,modula-best-grid-gallery,50000,0,127,4.6
+Video Player Gallery with Responsive,video-player-gallery,100,1,0,0
+Aparat Responsive,aparat-responsive,1000,0,4,4
+Menu Swapper,menu-swapper,8000,0,41,4.7
+IdeaPush,ideapush,500,0,17,4.6
+WP Migrate DB,wp-migrate-db,300000,0,206,4.6
+Niso Carousel,niso-carousel,100,0,3,5
+Cloudflare Stream Video,cloudflare-stream,30,1,0,0
+Album Gallery &#8211; WordPress Gallery,new-album-gallery,1000,0,12,5
+Ads by datafeedr.com,ads-by-datafeedrcom,9000,0,31,4.3
+PeepSo &#8211; User Profile and Social Networking Plugin,peepso-core,3000,0,104,4.4
+Themify Builder,themify-builder,10000,0,9,5
+WP Night Mode,wp-night-mode,900,0,10,4.2
+Pricing Table by PickPlugins,pricingtable,4000,0,17,5
+Multiline files upload for contact form 7,multiline-files-for-contact-form-7,3000,0,14,4.6
+DobsonDev Shortcodes,dobsondev-shortcodes,400,0,5,5
+Theme Blvd Layout Builder,theme-blvd-layout-builder,8000,0,5,5
+Updater by BestWebSoft,updater,8000,0,53,4.7
+Shortcodes Elements,shortcodes-elements,400,0,3,5
+Slider Carousel &#8211; Responsive Image Slider,slider-images,10000,0,45,4.6
+WP Ultimate Recipe,wp-ultimate-recipe,10000,0,71,4.5
+Wp-Insert,wp-insert,20000,0,133,4.5
+Dashboard Welcome for Elementor,dashboard-welcome-for-elementor,6000,0,8,5
+MailPoet Newsletters (Previous),wysija-newsletters,200000,0,2722,4.8
+WHA Crossword,wha-crossword,80,0,1,5
+Responsive Slick Slider WordPress,responsive-slick-slider,600,0,1,4
+Directorist &#8211; Business Directory Plugin,directorist,2000,0,24,4.7
+PB Addons for WPBakery Page Builder (Visual Composer),vc-addons-by-bit14,2000,0,5,4.2
+Booking Calendar,booking,50000,0,359,4.7
+WpStream,wpstream,500,0,2,5
+Wp anything slider,wp-anything-slider,1000,0,6,4.2
+Cool Timeline,cool-timeline,10000,0,138,4.6
+StagTools,stagtools,6000,0,4,5
+Podlove Podcast Publisher,podlove-podcasting-plugin-for-wordpress,5000,0,35,4.6
+WPC Product Videos for WooCommerce,woo-product-videos,200,1,3,2.3
+WordPress Meta Data and Taxonomies Filter (MDTF),wp-meta-data-filter-and-taxonomy-filter,9000,0,25,4.6
+Estatik Real Estate Plugin,estatik,3000,0,106,4.8
+DIVI Section Enhancer,dse-divi-section-enhancer,1000,0,3,5
+WordPress Page Builder by MotoPress,motopress-content-editor-lite,10000,0,94,4.8
+"Free WhatsApp, Messenger, Telegram, Email, SMS, Maps, Chat &amp; Call button &#8211; Chaty",chaty,8000,0,58,4.9
+Timber,timber-library,30000,0,59,4.9
+Translate WP website &#8211; Weglot Translate,weglot,20000,0,864,4.9
+WOOCS &#8211; Currency Switcher for WooCommerce. Multi Currency and Multi Pay for WooCommerce,woocommerce-currency-switcher,40000,0,73,4
+List category posts,list-category-posts,100000,0,226,4.7
+WP GoToWebinar,wp-gotowebinar,1000,0,9,5
+Facebook Button by BestWebSoft,facebook-button-plugin,20000,0,70,4
+Sell Downloads,sell-downloads,500,0,18,4.2
+Custom Instagram Feed,easy-instagram-feed,6000,0,20,4.4
+Product Tabs Manager for WooCommerce,product-tabs-manager-for-woocommerce,800,0,8,4.8
+Toolbox for Beaver Builder,bb-toolbox,500,0,4,5
+lightGallery,lightgallery,900,0,1,5
+Cookiebot | GDPR Compliant Cookie Consent and Notice,cookiebot,30000,0,90,4.1
+Nimble Page Builder,nimble-builder,30000,0,22,4.9
+DELUCKS SEO,delucks-seo,1000,0,12,4.8
+Salon booking system,salon-booking-system,5000,0,100,4.5
+Easy Upload Files During Checkout,easy-upload-files-during-checkout,1000,0,43,4.7
+Advance Portfolio Grid,advance-portfolio-grid,1000,0,22,4.2
+VidYen Point System,vidyen-point-system-vyps,100,0,6,5
+Algori Video and Image Slider,algori-image-video-slider,100,1,0,0
+Gallery Pro,gallery-pro,1000,0,11,3.9
+WP Scraper,wp-scraper,3000,0,17,4.5
+HT Mega &#8211; Absolute Addons for Elementor Page Builder,ht-mega-for-elementor,10000,0,16,4.4
+Dashboard Welcome for Beaver Builder,dashboard-welcome-for-beaver-builder,3000,0,6,5
+WP Categories Widget,wp-categories-widget,2000,0,4,5
+iPanorama 360 WordPress Virtual Tour Builder,ipanorama-360-virtual-tour-builder-lite,6000,0,7,3.7
+Woo Shortcodes Kit,woo-shortcodes-kit,2000,0,14,5
+Image Hover Effects Css3,image-hover-effects-css3,2000,0,19,4.6
+Pagination by BestWebSoft,pagination,7000,0,36,4.9
+Modal Popup Box &#8211; Popup Builder,modal-popup-box,900,0,8,4.3
+CF7 Spreadsheets,cf7-spreadsheets,300,0,11,4.9
+Minimum Purchase for WooCommerce,minimum-purchase-for-woocommerce,4000,0,34,4.1
+Responsive Gallery,responsive-photo-gallery,8000,0,67,4
+Smiling Video player and video content,smiling-video,50,1,2,5
+Pods Beaver Themer Add-On,pods-beaver-builder-themer-add-on,5000,0,26,5
+Weaver Xtreme Theme Support,weaverx-theme-support,10000,0,4,5
+WOOF &#8211; Products Filter for WooCommerce,woocommerce-products-filter,70000,0,101,4.5
+Easy Image Collage,easy-image-collage,6000,0,19,4.7
+"Astra Starter Sites – Elementor, Beaver Builder &amp; Gutenberg Templates",astra-sites,100000,0,15,4.8
+Simple Video Monetization,adreclick-free,30,1,0,0
+KVS Player,kvs-flv-player,1000,0,2,3
+Subscriber by BestWebSoft,subscriber,3000,0,10,4.6
+WooCommerce Image Zoom,woocommerce-image-zoom,8000,0,15,4.1
+Pootle Pagebuilder &#8211; WordPress Page builder,pootle-page-builder,4000,0,33,3.9
+Variation Swatches for WooCommerce,woo-variation-swatches,60000,0,173,5
+Photo Gallery WordPress,responsive-photo-gallery-wp,400,0,0,0
+Sitelinks Search Box,sitelinks-search-box,5000,0,6,5
+Scroll Triggered Box / Slide Box,slide-box,300,0,2,5
+"Responsive Image Gallery, Gallery Album",gallery-album,1000,0,6,5
+Art Decoration Shortcode,art-decoration-shortcode,4000,0,3,5
+Video Tab For WooCommerce,video-tab-for-woocommerce,3000,1,0,0
+Responsive Videos,responsive-youtube-videos,200,1,3,4.3
+iThemes Security (formerly Better WP Security),better-wp-security,900000,0,3820,4.7
+Helpie FAQ &#8211; WordPress FAQ Accordion Plugin,helpie-faq,300,0,6,5
+CM Tooltip Glossary,enhanced-tooltipglossary,9000,0,118,4.3
+Contact Form to DB by BestWebSoft,contact-form-to-db,2000,0,11,4.4
+Tabs &#8211; Responsive Tabs with  Accordions,vc-tabs,7000,0,49,4.8
+Zedna WP Image Lazy Load,wp-image-lazy-load,1000,0,14,4.6
+Transposh WordPress Translation,transposh-translation-filter-for-wordpress,20000,0,96,4.3
+WP YouTube Video Optimizer,wp-youtube-video-optimizer,70,1,3,3.7
+Google Analytics by BestWebSoft,bws-google-analytics,4000,0,23,4.7
+Woocommerce Single Product Page Customizer,woo-single-product-page-customizer,3000,0,3,5
+Encyclopedia / Glossary / Wiki,encyclopedia-lexicon-glossary-wiki-dictionary,2000,0,134,3.6
+WP Crowdfunding,wp-crowdfunding,3000,0,51,4.4
+AE Fb Video Embed,ae-fb-video-embed,700,1,2,5
+Dadevarzan WordPress Video,dadevarzan-wp-video,30,1,0,0
+Fourteen Colors,fourteen-colors,20000,0,47,4.8
+YITH WooCommerce Tab Manager,yith-woocommerce-tab-manager,6000,0,16,3.5
+WP Content Copy Protection,wp-content-copy-protection,30000,0,140,3.5
+Customize Admin,customize-admin,6000,0,5,3.6
+TechGasp Youtube Master,youtube-master,700,0,18,3.6
+Site Offline Or Coming Soon Or Maintenance Mode,site-offline,20000,0,140,4.8
+Shopping Cart &amp; eCommerce Store,wp-easycart,5000,0,121,4.4
+Responsive Portfolio &#8211; Responsive Image Gallery,responsive-portfolio,2000,0,34,4.3
+Testimonial – Best Testimonial Slider Plugin for WordPress,testimonial-free,10000,0,26,4.1
+MyCurator Content Curation,mycurator,2000,0,18,4.5
+User Role by BestWebSoft,user-role,4000,0,9,4.1
+Pixel Caffeine,pixel-caffeine,40000,0,23,4.5
+Amp Stories for WordPress,amp-story,200,0,3,5
+Tabs,tabs-responsive,20000,0,327,4.7
+"WP User Frontend &#8211; Membership, Profile, Registration &amp; Post Submission Plugin for WordPress",wp-user-frontend,20000,0,249,4
+AWSM Team,awsm-team,3000,0,2,5
+Video Backgrounds for SiteOrigin Page Builder,video-backgrounds-for-siteorigin-page-builder,10000,1,11,4.5
+Testimonials Widget,testimonials-widget,40000,0,114,4.3
+Resume Builder,resume-builder,6000,0,13,4.4
+WP Bodymovin,wp-bodymovin,2000,0,6,5
+Demo Awesome,demo-awesome,1000,0,1,5
+Custom Login,custom-login,60000,0,95,3.7
+Itm Simple Hide,itm-simple,100,0,1,5
+The Visual Editor,zedity,5000,0,101,4.5
+Unlimited Addons for WPBakery Page Builder,unlimited-addons-for-wpbakery-page-builder,10000,0,8,3.1
+Elementor Addons &#8211;  PowerPack Lite for Elementor,powerpack-lite-for-elementor,5000,0,15,4.7
+Social Media Icons &#8211; Social Icons Widget,new-social-media-widget,4000,0,16,4.8
+DPlayer for WordPress,dplayer-for-wp,200,0,2,5
+Featured Video Plus,featured-video-plus,30000,1,73,4.8
+mb.vimeoPlayer for background videos,wp-vimeoplayer,60,1,3,5
+Learning Courses,nd-learning,2000,0,12,4
+WRC Pricing Tables,wrc-pricing-tables,3000,0,24,4.4
+Word Search Puzzles game,wha-wordsearch,200,0,4,4.8
+WidgetKit for Elementor,widgetkit-for-elementor,20000,0,24,4.7
+SeedX Video Gallery for WooCommerce,seedx-video-gallery-for-woocommerce,30,1,2,5
+Coming soon and Maintenance mode,coming-soon-page,20000,0,78,4.2
+YouTube FancyBox,youtubefancybox,500,0,7,3.3
+WCFM Membership &#8211; WooCommerce Memberships for Multivendor Marketplace,wc-multivendor-membership,10000,0,10,5
+TechGasp Vimeo Master,vimeo-master,1000,0,10,2.9
+Hummingbird – Speed Up WordPress,hummingbird-performance,70000,0,464,4.8
+Unyson,unyson,200000,0,72,4.2
+Easy FancyBox,easy-fancybox,300000,0,161,4.6
+Amazing Hover Effects,amazing-hover-effects,3000,0,100,4.3
+Multi Step Form,multi-step-form,10000,0,24,4.5
+WPB WooCommerce Custom Tab Manager,wpb-woocommerce-custom-tab-manager,1000,0,10,4.3
+Snippy,snippy,400,0,4,5
+"Image Gallery &#8211; Lightbox Gallery, Responsive Gallery",new-image-gallery,3000,0,33,4.7
+Essential WPBakery Page Builder (formerly Visual Composer) Addons,vc-shortcodes,9000,0,17,3.1
+Elements Plus!,elements-plus,10000,0,17,5
+Udinra All Image Sitemap,udinra-all-image-sitemap,10000,0,48,4
+PayPal Donation,easy-paypal-donation,20000,0,17,4.4
+WP Subscribe,wp-subscribe,30000,0,23,4
+WP Upload Size,wp-upload-size,2000,0,3,5
+WP Snow Effect,wp-snow-effect,2000,0,186,4.9
+Pre* Party Resource Hints,pre-party-browser-hints,1000,0,7,5
+White Label Branding for Elementor Page Builder,white-label-branding-elementor,1000,0,7,5
+Video Block with Ads,video-block-with-ads,0,1,0,0
+Embed Any Document,embed-any-document,60000,0,63,4.3
+hashtagger,hashtagger,1000,0,26,4.7
+XT WooCommerce Floating Cart,woo-floating-cart-lite,4000,0,16,4.4
+WP Mapbox GL JS Maps,wp-mapbox-gl-js,1000,0,8,4
+Message ticker,message-ticker,1000,0,2,4
+External Videos,external-videos,300,1,5,3.6
+vooPlayer v4,vooplayer,1000,0,18,3.3
+wordpress responsive thumbnail carousel slider,wp-responsive-thumbnail-slider,6000,0,23,4.4
+StoreYa&#039;s Shop to Facebook for WooCommerce,facebook-shop-by-storeyacom,5000,0,26,3.6
+Slider Pro,slider-pro-lite,800,0,1,5
+Modal Portfolio,modal-portfolio,500,0,6,3.7
+404page &#8211; your smart custom 404 error page,404page,100000,0,470,4.9
+Stylish Price List,stylish-price-list,1000,0,24,4.8
+Savvii WP Migrate,savvii-wp-migrate,700,0,1,5
+Limit Attempts by BestWebSoft,limit-attempts,10000,0,36,4.6
+AMP WP &#8211; Google AMP For WordPress,amp-wp,1000,0,28,4.2
+Sapo Videos oEmbed,sapo-videos-o-embed,0,1,1,5
+LidPlay Player,lidplay,200,0,18,4.4
+Ultimate Reviews,ultimate-reviews,3000,0,41,4.2
+Google Analytics Dashboard Plugin for WordPress by Analytify,wp-analytify,40000,0,254,4.8
+Fullwidth Templates for Any Theme &amp; Page Builder,fullwidth-templates,30000,0,23,4.8
+Request a Quote,request-a-quote,2000,0,24,4.9
+Editorial Calendar,editorial-calendar,40000,0,72,4.9
+WooCommerce Product Attachment,woo-product-attachment,2000,0,8,4.5
+WPeMatico RSS Feed Fetcher,wpematico,20000,0,286,4.8
+RumbleTalk Live Group Chat &#8211; HTML5,rumbletalk-chat-a-chat-with-themes,1000,0,32,4.3
+Find Posts Using Attachment,find-posts-using-attachment,1000,0,17,4.5
+Universal Slider,fusion-slider,3000,0,3,5
+Page Builder: PageLayer &#8211; Drag and Drop website builder,pagelayer,40000,0,1,5
+"Flux Pearl Page Builder, Visual Editor, Web Page Builder HTML Editor, Page Designer, Site builder WYSWYG",fluxlive,1000,0,17,4.4
+"WordPress Share Buttons, Related Posts, Google Analytics &#8211; Shareaholic",shareaholic,80000,0,788,4.2
+Publitio,publitio,200,0,1,5
+Landing Page,ultimate-landing-page-and-coming-soon-page,3000,0,23,3.4
+Keywords to Links Converter,links-auto-replacer,2000,0,5,3.6
+WP Accessibility Tools &amp; Missing Alt Text Finder,tool-for-ada-section-508-and-seo,700,0,14,4.9
+WP eCommerce,wp-e-commerce,20000,0,258,3.4
+Htaccess by BestWebSoft,htaccess,2000,0,2,4
+Use Any Font [ Freemium ],use-any-font,100000,0,825,4.7
+Mihdan: Ajax Edit Comments,wp-ajax-edit-comments,2000,0,18,4.4
+Ultimate Dashboard,ultimate-dashboard,2000,0,5,4.6
+Social Boost,social-boost,500,0,7,5
+Premium Portfolio Features for Phlox theme,auxin-portfolio,10000,0,5,4.2
+Music Press Pro,music-press-pro,700,0,11,4.6
+Advanced Youtube Channel Pagination,advanced-youtube-channel-pagination,100,0,5,5
+Advanced iFrame,advanced-iframe,50000,0,38,4.3
+Gravity Forms Advanced File Uploader,gravity-forms-advanced-file-uploader,3000,0,28,4.6
+Force Sell for WooCommerce,force-sell-for-woocommerce,500,0,2,5
+WOOBE &#8211; Products Bulk Editor for WooCommerce,woo-bulk-editor,20000,0,24,4.5
+Gosign &#8211; Masonry Post Block,gosign-masonry-post-block,400,0,6,5
