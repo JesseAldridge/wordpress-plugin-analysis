@@ -1,4 +1,4 @@
-import re, time, os, shutil, csv
+import re, time, os, shutil, csv, json
 
 import requests
 
@@ -45,27 +45,36 @@ class Writer:
     self.writer.writerow(vals)
 
 def main():
-  url = 'https://wordpress.org/plugins/browse/popular/page/{}/'
-  num_pulls = 50
-  filename = 'plugins1.csv'
+  with open('config.json') as f:
+    text = f.read()
+  config = json.loads(text)
 
-  with Writer(filename, ['slug', 'active_installs']) as writer:
+  num_pulls = 50
+
+  with Writer(config.get('csv-filename'), ['title', 'slug', 'active_installs', 'relevance']) as writer:
     for i in range(1, num_pulls):
       print('pulling page:', i)
-      html = cached_pull(url.format(i), secs_sleep_after_request=2)
+      html = cached_pull(config.get('url').format(i), secs_sleep_after_request=2)
 
       plugin_links = []
-      link_regex = '<h2 class="entry-title"><a href="https://wordpress.org/plugins/(.+?)/"'
-      active_installs_regex = r'([0-9,a-zA-Z \+]+?) active installations\s+</span>'
-      for link_match, active_installs_match in zip(
-        re.finditer(link_regex, html),
+      title_regex = (
+        '<h2 class="entry-title"><a href="https://wordpress.org/plugins/(.+?)/" '
+        'rel="bookmark">(.+?)</a></h2>'
+      )
+      active_installs_regex = r'([/0-9,a-zA-Z \+]+?) active installations\s+</span>'
+      for title_match, active_installs_match in zip(
+        re.finditer(title_regex, html),
         re.finditer(active_installs_regex, html),
       ):
-        slug = link_match.group(1)
-        active_installs_str = re.sub(r'\+ million', '000000', active_installs_match.group(1))
+        slug, title = title_match.group(1), title_match.group(2)
+        relevance = 1 if config.get('query_str') and config.get('query_str') in title.lower() else 0
+        print("active_installs:", active_installs_match.group(1))
+        active_installs_str = re.sub('Fewer than 10', '0', active_installs_match.group(1))
+        active_installs_str = re.sub('N/A', '0', active_installs_str)
+        active_installs_str = re.sub(r'\+ million', '000000', active_installs_str)
         active_installs_str = re.sub(',', '', active_installs_str)
         active_installs_str = re.sub(r'\+', '', active_installs_str)
-        writer.write([slug, int(active_installs_str)])
+        writer.write([title, slug, int(active_installs_str), relevance])
 
 if __name__ == '__main__':
   main()

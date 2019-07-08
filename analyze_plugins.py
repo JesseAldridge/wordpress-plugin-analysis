@@ -1,6 +1,10 @@
 import collections
 
-with open('plugins.csv') as f:
+with open('config.json') as f:
+  text = f.read()
+config_dict =  json.loads(text)
+
+with open(config_dict.get('csv-filename')) as f:
   text = f.read()
 lines = text.splitlines()
 
