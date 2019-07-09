@@ -72,7 +72,8 @@ def main():
         if query_str:
           for term in query_str.split():
             if term in title.lower():
-              relevance += 1
+              relevance = 1
+              break
         print("active_installs:", active_installs_match.group(1))
         active_installs_str = re.sub('Fewer than 10', '0', active_installs_match.group(1))
         active_installs_str = re.sub('N/A', '0', active_installs_str)
