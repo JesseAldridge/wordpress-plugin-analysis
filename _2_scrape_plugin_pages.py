@@ -49,8 +49,8 @@ for row in rows[1:]:
   ])
 
 with _1_scrape_plugins_list.Writer(config_dict.get('csv-filename'), [
-    'title', 'slug', 'my_score', 'weighted', 'active_installs', 'weighted', 'relevance',
-    'weighted', 'review_count', 'weighted', 'avg_rating',
-  ]) as writer:
+  'title', 'slug', 'my_score', 'weighted', 'active_installs', 'weighted', 'relevance',
+  'weighted', 'review_count', 'weighted', 'avg_rating',
+]) as writer:
   for row in sorted(new_rows, key=lambda row: -row[2]):
     writer.write(row)
