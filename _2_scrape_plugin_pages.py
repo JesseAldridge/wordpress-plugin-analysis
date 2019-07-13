@@ -16,11 +16,11 @@ review_count_regex = (
 avg_rating_regex = r'([0-9\.]+) out of <span itemprop="bestRating">5</span> stars'
 
 new_rows = []
-for row in rows[1:]:
+for irow, row in enumerate(rows[1:]):
   title, plugin_slug, active_installs, relevance = row[:4]
   active_installs, relevance = int(active_installs), int(relevance)
   reviews_url = 'https://wordpress.org/support/plugin/{}/reviews/'.format(plugin_slug)
-  print("reviews_url:", reviews_url)
+  print("{:<4}/{:<4} reviews_url: {}".format(irow + 1, len(rows), reviews_url))
   html = _1_scrape_plugins_list.cached_pull(reviews_url, secs_sleep_after_request=2)
   match = re.search(review_count_regex, html)
   review_count_str = match.group(1)

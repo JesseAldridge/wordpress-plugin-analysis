@@ -1,5 +1,5 @@
 {
-  "url": "https://wordpress.org/plugins/search/video/page/{}/",
-  "csv-filename": "plugins-video.csv",
-  "query_str": "video youtube player"
+  "url": "https://wordpress.org/plugins/search/custom+fields/page/{}/",
+  "csv-filename": "plugins-custom-fields.csv",
+  "query_str": ""
 }
