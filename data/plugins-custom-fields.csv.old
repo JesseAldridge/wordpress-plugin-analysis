@@ -12,10 +12,12 @@ Mailchimp for WordPress,mailchimp-for-wp,25.66,13.82,1000000,0,0,7.05,1148,4.8,4
 Page Builder by SiteOrigin,siteorigin-panels,25.47,13.82,1000000,0,0,6.86,949,4.8,4.8
 WP Google Maps,wp-google-maps,25.14,12.9,400000,0,0,7.54,1879,4.7,4.7
 Ninja Forms &#8211; The Easy and Powerful Forms Builder,ninja-forms,25.12,13.82,1000000,0,0,6.9,994,4.4,4.4
+Polylang,polylang,24.78,13.12,500000,0,0,6.96,1049,4.7,4.7
 WPS Hide Login,wps-hide-login,24.77,12.9,400000,0,0,6.98,1070,4.9,4.9
 MetaSlider,ml-slider,24.7,13.71,900000,0,0,6.29,538,4.7,4.7
 AddToAny Share Buttons,add-to-any,24.54,13.12,500000,0,0,6.72,829,4.7,4.7
 Smart Slider 3,smart-slider-3,24.32,12.9,400000,0,0,6.52,677,4.9,4.9
+Redirection,redirection,24.25,13.82,1000000,0,0,6.14,462,4.3,4.3
 Google Analytics Dashboard for WP by ExactMetrics (formerly GADWP),google-analytics-dashboard-for-wp,24.09,13.82,1000000,0,0,5.98,394,4.3,4.3
 Ad Inserter &#8211; Ad Manager &amp; AdSense Ads,ad-inserter,24.05,12.21,200000,0,0,6.94,1035,4.9,4.9
 Custom Feeds for Facebook,custom-facebook-feed,24.05,12.21,200000,0,0,7.04,1143,4.8,4.8
@@ -25,6 +27,7 @@ WordPress Importer,wordpress-importer,23.84,15.2,4000000,0,0,5.64,281,3.0,3.0
 Custom Sidebars &#8211; Dynamic Widget Area Manager,custom-sidebars,23.82,12.21,200000,0,0,6.91,1002,4.7,4.7
 Disable Gutenberg,disable-gutenberg,23.65,12.61,300000,0,0,6.04,421,5.0,5.0
 Broken Link Checker,broken-link-checker,23.53,13.46,700000,0,0,5.87,354,4.2,4.2
+SiteOrigin Widgets Bundle,so-widgets-bundle,23.49,13.82,1000000,0,0,4.77,118,4.9,4.9
 Admin Columns,codepress-admin-columns,23.45,11.51,100000,0,0,7.03,1135,4.9,4.9
 Custom Post Type UI,custom-post-type-ui,23.44,13.46,700000,0,0,5.28,196,4.7,4.7
 Redux Framework,redux-framework,23.4,13.59,800000,0,0,5.2,182,4.6,4.6
@@ -44,6 +47,7 @@ Ultimate Member &#8211; User Profile &amp; Membership Plugin,ultimate-member,22.
 Meta Box &#8211; WordPress Custom Fields Framework,meta-box,22.42,12.9,400000,0,0,4.62,102,4.9,4.9
 Adminimize,adminimize,22.33,12.21,200000,0,0,5.42,226,4.7,4.7
 ShortPixel Image Optimizer,shortpixel-image-optimiser,22.32,11.51,100000,0,0,6.11,451,4.7,4.7
+"Cerber Security, Antispam &amp; Malware Scan",wp-cerber,22.31,11.51,100000,0,0,5.9,365,4.9,4.9
 Child Theme Configurator,child-theme-configurator,22.3,12.21,200000,0,0,5.39,219,4.7,4.7
 WP User Avatar,wp-user-avatar,22.23,12.61,300000,0,0,5.21,184,4.4,4.4
 Duplicate Page,duplicate-page,22.2,13.71,900000,0,0,4.09,60,4.4,4.4
@@ -51,10 +55,13 @@ WP Live Chat Support,wp-live-chat-support,22.17,10.82,50000,0,0,6.65,774,4.7,4.7
 Gutenberg,gutenberg,22.15,12.21,200000,0,0,7.94,2813,2.0,2.0
 Easy Forms for Mailchimp,yikes-inc-easy-mailchimp-extender,22.1,11.51,100000,0,0,5.89,361,4.7,4.7
 Simple History,simple-history,21.94,11.51,100000,0,0,5.53,252,4.9,4.9
+"Feed Them Social &#8211; Facebook, Instagram, Twitter, YouTube &amp; Pinterest",feed-them-social,21.9,11.16,70000,0,0,6.05,422,4.7,4.7
 Content Views &#8211; Post Grid &amp; List for WordPress,content-views-query-and-display-post-page,21.89,11.51,100000,0,0,5.58,265,4.8,4.8
 SEOPress,wp-seopress,21.87,11.0,60000,0,0,5.97,392,4.9,4.9
+"WordPress Social Share, Social Login and Social Comments Plugin &#8211; Super Socializer",super-socializer,21.85,11.0,60000,0,0,6.05,424,4.8,4.8
 10Web Social Feed for Instagram,wd-instagram-feed,21.77,11.29,80000,0,0,5.68,293,4.8,4.8
 User Registration &amp; User Profile &#8211; Profile Builder,profile-builder,21.73,10.82,50000,0,0,6.21,497,4.7,4.7
+Enhanced Media Library,enhanced-media-library,21.73,11.51,100000,0,0,5.51,248,4.7,4.7
 Admin Custom Login,admin-custom-login,21.72,11.16,70000,0,0,5.86,351,4.7,4.7
 WP Security Audit Log,wp-security-audit-log,21.68,11.41,90000,0,0,5.48,239,4.8,4.8
 Relevanssi &#8211; A Better Search,relevanssi,21.66,11.51,100000,0,0,5.45,233,4.7,4.7
@@ -77,13 +84,16 @@ Comments &#8211; wpDiscuz,wpdiscuz,21.36,10.82,50000,0,0,5.74,310,4.8,4.8
 Visual Form Builder,visual-form-builder,21.36,11.41,90000,0,0,5.65,284,4.3,4.3
 Strong Testimonials,strong-testimonials,21.34,11.29,80000,0,0,5.25,191,4.8,4.8
 WP Store Locator,wp-store-locator,21.34,11.0,60000,0,0,5.44,231,4.9,4.9
+Paid Memberships Pro,paid-memberships-pro,21.27,11.29,80000,0,0,5.78,323,4.2,4.2
 Custom Twitter Feeds,custom-twitter-feeds,21.22,11.0,60000,0,0,5.31,203,4.9,4.9
 Booster for WooCommerce,woocommerce-jetpack,21.21,10.82,50000,0,0,5.69,296,4.7,4.7
 Minimal Coming Soon &amp; Maintenance Mode – Coming Soon Builder,minimal-coming-soon-maintenance-mode,21.21,11.16,70000,0,0,5.25,191,4.8,4.8
+Data Tables Generator by Supsystic,data-tables-generator-by-supsystic,21.21,10.31,30000,0,0,6.0,402,4.9,4.9
 WP-Members Membership Plugin,wp-members,21.16,11.29,80000,0,0,5.27,195,4.6,4.6
 Variation Swatches for WooCommerce,woo-variation-swatches,21.16,11.0,60000,0,0,5.15,173,5.0,5.0
 Contact Form by BestWebSoft,contact-form-plugin,21.16,11.51,100000,0,0,5.65,284,4.0,4.0
 Contact Form 7 &#8211; Conditional Fields,cf7-conditional-fields,21.04,11.51,100000,0,0,4.62,102,4.9,4.9
+"PixelYourSite &#8211; Facebook Pixel, Google Analytics, Head &amp; Footer (WooCommerce, EDD, Events)",pixelyoursite,21.03,11.51,100000,0,0,5.02,151,4.5,4.5
 Advanced Order Export For WooCommerce,woo-order-export-lite,21.02,11.0,60000,0,0,5.02,151,5.0,5.0
 Checkout Field Editor (Checkout Manager) for WooCommerce,woo-checkout-field-editor-pro,20.98,11.51,100000,0,0,4.76,117,4.7,4.7
 Fast Velocity Minify,fast-velocity-minify,20.98,11.29,80000,0,0,4.89,133,4.8,4.8
@@ -123,6 +133,7 @@ Custom Permalinks,custom-permalinks,20.07,11.51,100000,0,0,4.45,86,4.1,4.1
 Ultimate FAQ,ultimate-faqs,20.06,10.31,30000,0,0,5.25,190,4.5,4.5
 WP ULike,wp-ulike,20.04,9.9,20000,0,0,5.24,188,4.9,4.9
 Contact Form by WD &#8211; responsive drag &amp; drop contact form builder tool,contact-form-maker,20.02,10.6,40000,0,0,5.02,152,4.4,4.4
+XML Sitemap &amp; Google News,xml-sitemap-feed,19.99,11.51,100000,0,0,4.08,59,4.4,4.4
 Import users from CSV with meta,import-users-from-csv-with-meta,19.98,10.31,30000,0,0,4.87,130,4.8,4.8
 Product Import Export for WooCommerce,product-import-export-for-woo,19.98,10.6,40000,0,0,4.68,108,4.7,4.7
 Ivory Search &#8211; WordPress Search Plugin,add-search-to-menu,19.96,9.9,20000,0,0,5.15,173,4.9,4.9
@@ -131,6 +142,7 @@ Connections Business Directory,connections,19.91,9.21,10000,0,0,5.8,331,4.9,4.9
 Bulk Delete,bulk-delete,19.91,10.82,50000,0,0,4.49,89,4.6,4.6
 "Contact Form, Drag and Drop Form Builder for WordPress &#8211; Everest Forms",everest-forms,19.91,11.51,100000,0,0,3.5,33,4.9,4.9
 Contact Form 7 Redirection,wpcf7-redirect,19.88,11.51,100000,0,0,3.47,32,4.9,4.9
+Contact Form7 Widget For Elementor Page Builder,cf7-widget-elementor,19.85,10.82,50000,0,0,4.13,62,4.9,4.9
 Page-list,page-list,19.84,10.82,50000,0,0,4.32,75,4.7,4.7
 Post Grid,post-grid,19.81,11.0,60000,0,0,4.51,91,4.3,4.3
 WPGlobus &#8211; Multilingual Everything!,wpglobus,19.81,9.9,20000,0,0,5.3,201,4.6,4.6
@@ -193,6 +205,7 @@ Permalink Manager Lite,permalink-manager,18.8,9.9,20000,0,0,4.09,60,4.8,4.8
 Awesome Support &#8211; WordPress HelpDesk &amp; Support Plugin,awesome-support,18.8,9.21,10000,0,0,5.09,162,4.5,4.5
 Ultimate Posts Widget,ultimate-posts-widget,18.8,10.31,30000,0,0,3.99,54,4.5,4.5
 WCFM &#8211; WooCommerce Frontend Manager for WC Vendors Dokan with Bookings &amp; Listings,wc-frontend-manager,18.79,9.21,10000,0,0,4.78,119,4.8,4.8
+"WooCommerce Smart Manager &#8211; Manage and Bulk Edit Products, Orders, Post types &amp; more&#8230;",smart-manager-for-wp-e-commerce,18.79,9.21,10000,0,0,5.18,177,4.4,4.4
 Product Catalog,ultimate-product-catalogue,18.77,9.21,10000,0,0,4.96,142,4.6,4.6
 Responsive Pricing Table,dk-pricr-responsive-pricing-table,18.71,9.9,20000,0,0,4.2,67,4.6,4.6
 Like Button Rating ♥ LikeBtn,likebtn-like-button,18.68,8.99,8000,0,0,5.29,199,4.4,4.4
@@ -204,6 +217,7 @@ Posts in Sidebar,posts-in-sidebar,18.55,9.21,10000,0,0,4.34,77,5.0,5.0
 Hyyan WooCommerce Polylang Integration,woo-poly-integration,18.5,9.21,10000,0,0,4.49,89,4.8,4.8
 SendinBlue Subscribe Form And WP SMTP,mailin,18.49,10.6,40000,0,0,3.69,40,4.2,4.2
 Toolbar Extras for Elementor &#8211; WordPress Admin Bar Enhanced,toolbar-extras,18.47,9.21,10000,0,0,4.36,78,4.9,4.9
+Tickera &#8211; WordPress Event Ticketing,tickera-event-ticketing-system,18.47,9.1,9000,0,0,4.66,106,4.7,4.7
 WCFM Marketplace &#8211; WooCommerce Multivendor Marketplace,wc-multivendor-marketplace,18.46,9.21,10000,0,0,4.25,70,5.0,5.0
 Coming soon and Maintenance mode,coming-soon-page,18.46,9.9,20000,0,0,4.36,78,4.2,4.2
 Realtyna Organic IDX plugin + WPL Real Estate,real-estate-listing-realtyna-wpl,18.35,8.52,5000,0,0,5.14,170,4.7,4.7
@@ -216,6 +230,7 @@ ACF: Better Search,acf-better-search,18.22,9.21,10000,0,0,4.11,61,4.9,4.9
 Visual Portfolio,visual-portfolio,18.2,9.9,20000,0,0,3.5,33,4.8,4.8
 Counter Number,counter-number-showcase,18.17,9.21,10000,0,0,4.26,71,4.7,4.7
 The Post Grid,the-post-grid,18.16,9.9,20000,0,0,3.76,43,4.5,4.5
+Image Hover Effects Ultimate &#8211; Captions Hover with Visual Composer Extension,image-hover-effects-ultimate,18.14,9.21,10000,0,0,4.23,69,4.7,4.7
 Smooth Slider,smooth-slider,18.13,9.21,10000,0,0,4.62,101,4.3,4.3
 Events Made Easy,events-made-easy,18.08,8.99,8000,0,0,4.49,89,4.6,4.6
 BP Profile Search,bp-profile-search,18.06,9.21,10000,0,0,3.85,47,5.0,5.0
@@ -230,6 +245,7 @@ WP Ultimate Recipe,wp-ultimate-recipe,17.97,9.21,10000,0,0,4.26,71,4.5,4.5
 Code Embed,simple-embed-code,17.96,9.9,20000,0,0,3.26,26,4.8,4.8
 Head &amp; Footer Code,head-footer-code,17.95,10.31,30000,0,0,2.64,14,5.0,5.0
 ACF qTranslate,acf-qtranslate,17.94,10.31,30000,0,0,2.83,17,4.8,4.8
+Modern Events Calendar Lite,modern-events-calendar-lite,17.94,9.21,10000,0,0,4.33,76,4.4,4.4
 Team Builder,team-builder,17.92,8.85,7000,0,0,4.37,79,4.7,4.7
 User Meta &#8211; User Profile Builder and User management plugin,user-meta,17.92,8.01,3000,0,0,5.51,248,4.4,4.4
 Gravity Forms + Custom Post Types,gravity-forms-custom-post-types,17.91,9.9,20000,0,0,3.61,37,4.4,4.4
@@ -240,6 +256,7 @@ YourChannel: Everything you want in a YouTube plugin.,yourchannel,17.88,9.21,100
 "Forminator Contact Form, Poll &amp; Quiz Builder",forminator,17.84,9.9,20000,0,0,3.43,31,4.5,4.5
 Easy Property Listings,easy-property-listings,17.84,8.7,6000,0,0,4.44,85,4.7,4.7
 Simple Basic Contact Form,simple-basic-contact-form,17.84,9.1,9000,0,0,3.93,51,4.8,4.8
+ATUM Inventory Management for WooCommerce,atum-stock-manager-for-woocommerce,17.83,8.85,7000,0,0,4.17,65,4.8,4.8
 Order Export &amp; Order Import for WooCommerce,order-import-export-for-woocommerce,17.8,9.1,9000,0,0,4.29,73,4.4,4.4
 Custom Login Page Customizer by Colorlib,colorlib-login-customizer,17.78,10.31,30000,0,0,2.77,16,4.7,4.7
 Advanced Custom Fields: Image Crop Add-on,acf-image-crop-add-on,17.77,9.9,20000,0,0,3.47,32,4.4,4.4
@@ -247,6 +264,7 @@ Toolbar Publish Button,toolbar-publish-button,17.75,9.21,10000,0,0,3.74,42,4.8,4
 Smart Custom Fields,smart-custom-fields,17.74,9.9,20000,0,0,2.83,17,5.0,5.0
 WordPress Landing Pages,landing-pages,17.72,9.21,10000,0,0,5.11,166,3.4,3.4
 "Booking calendar, Appointment Booking System",booking-calendar,17.72,8.7,6000,0,0,4.42,83,4.6,4.6
+WP Multilang,wp-multilang,17.72,9.21,10000,0,0,4.01,55,4.5,4.5
 PDF &amp; Print by BestWebSoft,pdf-print,17.7,9.21,10000,0,0,4.29,73,4.2,4.2
 "WP ERP &#8211; Complete WordPress Business Manager with HR, CRM &amp; Accounting Systems for Small Businesses",erp,17.7,9.21,10000,0,0,3.99,54,4.5,4.5
 Pie Register &#8211; Custom Registration Form and User Login WordPress Plugin,pie-register,17.69,8.99,8000,0,0,4.8,122,3.9,3.9
@@ -254,18 +272,25 @@ Contact Form 7 &#8211; PayPal &amp; Stripe Add-on,contact-form-7-paypal-add-on,1
 Booking Ultra Pro Appointments Booking Calendar Plugin,booking-ultra-pro,17.68,8.29,4000,0,0,5.28,197,4.1,4.1
 Notification &#8211; Custom Notifications and Alerts for WordPress,notification,17.65,8.52,5000,0,0,4.23,69,4.9,4.9
 Secondary Title,secondary-title,17.65,8.99,8000,0,0,3.76,43,4.9,4.9
+Constant Contact Forms,constant-contact-forms,17.65,10.82,50000,0,0,3.93,51,2.9,2.9
 Gallery Custom Links,gallery-custom-links,17.64,9.21,10000,0,0,3.53,34,4.9,4.9
 CC Child Pages,cc-child-pages,17.64,9.21,10000,0,0,3.53,34,4.9,4.9
 "WordPress User Registration, Front-end Login &amp; User Profile – ProfilePress",ppress,17.64,8.52,5000,0,0,4.62,102,4.5,4.5
 weForms &#8211; Easy Drag &amp; Drop Contact Form Builder For WordPress,weforms,17.64,9.21,10000,0,0,3.53,34,4.9,4.9
 Salon booking system,salon-booking-system,17.62,8.52,5000,0,0,4.61,100,4.5,4.5
 Testimonial Slider,testimonial-slider,17.62,9.21,10000,0,0,4.2,67,4.2,4.2
+Elementor Custom Skin,ele-custom-skin,17.62,8.99,8000,0,0,3.64,38,5.0,5.0
+Easy Login Styler &#8211; White Label Admin Login Page for WordPress,easy-login-styler,17.62,8.29,4000,0,0,4.33,76,5.0,5.0
 Leaflet Map,leaflet-map,17.61,9.21,10000,0,0,3.4,30,5.0,5.0
+PayPal Buy Now Button,wp-ecommerce-paypal,17.59,9.9,20000,0,0,2.89,18,4.8,4.8
 WOOBE &#8211; Products Bulk Editor for WooCommerce,woo-bulk-editor,17.58,9.9,20000,0,0,3.18,24,4.5,4.5
+Youtube Widget Responsive,youtube-widget-responsive,17.58,9.9,20000,0,0,2.77,16,4.9,4.9
 AJAX Login and Registration modal popup + inline form,ajax-login-and-registration-modal-popup,17.56,8.52,5000,0,0,4.14,63,4.9,4.9
+Tabs &#8211; Responsive Tabs with  Accordions,vc-tabs,17.55,8.85,7000,0,0,3.89,49,4.8,4.8
 Feature A Page Widget,feature-a-page-widget,17.54,9.21,10000,0,0,3.33,28,5.0,5.0
 Photo Gallery &#8211; Image Gallery by Ape,gallery-images-ape,17.53,8.7,6000,0,0,4.53,93,4.3,4.3
 Stripe Payments for WordPress &#8211; WP Simple Pay,stripe,17.52,9.21,10000,0,0,3.91,50,4.4,4.4
+WordPress Carousel &#8211; Responsive Image Slider for WordPress,wp-carousel-free,17.52,9.21,10000,0,0,4.11,61,4.2,4.2
 Genesis Featured Page Advanced,genesis-featured-page-advanced,17.51,9.21,10000,0,0,3.3,27,5.0,5.0
 Form Builder | Create Responsive Contact Forms,contact-form-add,17.49,9.21,10000,0,0,4.08,59,4.2,4.2
 Product Customer List for WooCommerce,wc-product-customer-list,17.47,8.7,6000,0,0,3.87,48,4.9,4.9
@@ -280,16 +305,19 @@ WP Bulk Delete,wp-bulk-delete,17.39,9.9,20000,0,0,2.89,18,4.6,4.6
 Forms: 3rd-Party Integration,forms-3rdparty-integration,17.37,9.21,10000,0,0,3.26,26,4.9,4.9
 Extra Product Options (Product Addons) for WooCommerce,woo-extra-product-options,17.34,9.21,10000,0,0,3.33,28,4.8,4.8
 WP Post Popup,wp-post-modal,17.33,8.7,6000,0,0,3.93,51,4.7,4.7
+WP Sticky Sidebar &#8211; Floating Sidebar On Scroll for Any Theme,mystickysidebar,17.33,9.21,10000,0,0,3.22,25,4.9,4.9
 WP Latest Posts,wp-latest-posts,17.32,9.21,10000,0,0,3.91,50,4.2,4.2
 Flexible Checkout Fields for WooCommerce,flexible-checkout-fields,17.31,9.21,10000,0,0,3.5,33,4.6,4.6
 Head and Footer Scripts Inserter,header-and-footer-scripts-inserter,17.31,10.31,30000,0,0,2.4,11,4.6,4.6
 Psychological tests &amp; quizzes,wp-testing,17.28,8.01,3000,0,0,4.48,88,4.8,4.8
+Frontend Uploader,frontend-uploader,17.26,8.99,8000,0,0,3.97,53,4.3,4.3
 Simple Staff List,simple-staff-list,17.25,8.99,8000,0,0,3.66,39,4.6,4.6
 File Renaming on Upload,file-renaming-on-upload,17.24,9.1,9000,0,0,3.33,28,4.8,4.8
 Advanced Post List,advanced-post-list,17.24,8.52,5000,0,0,4.22,68,4.5,4.5
 Category Posts in Custom Menu,category-posts-in-custom-menu,17.24,8.7,6000,0,0,3.64,38,4.9,4.9
 Status and Order Tracking,order-tracking,17.23,8.7,6000,0,0,3.83,46,4.7,4.7
 User Activity Log,user-activity-log,17.22,9.21,10000,0,0,3.71,41,4.3,4.3
+Multi Rating,multi-rating,17.19,8.7,6000,0,0,3.99,54,4.5,4.5
 Advanced Classifieds &amp; Directory Pro,advanced-classifieds-and-directory-pro,17.18,8.29,4000,0,0,4.19,66,4.7,4.7
 PlanSo Forms,planso-forms,17.16,9.21,10000,0,0,3.85,47,4.1,4.1
 CyberSEO Lite (CyberSyn),cybersyn,17.14,9.21,10000,0,0,3.83,46,4.1,4.1
@@ -297,6 +325,8 @@ NEX-Forms &#8211; Ultimate Form Builder,nex-forms-express-wp-form-builder,17.12,
 Product Sales Report for WooCommerce,product-sales-report-for-woocommerce,17.11,8.85,7000,0,0,3.76,43,4.5,4.5
 FormCraft &#8211; Contact Form Builder for WordPress,formcraft-form-builder,17.08,8.85,7000,0,0,3.53,34,4.7,4.7
 Simple Ajax Chat,simple-ajax-chat,17.06,7.6,2000,0,0,4.66,106,4.8,4.8
+PeepSo &#8211; User Profile and Social Networking Plugin,peepso-core,17.05,8.01,3000,0,0,4.64,104,4.4,4.4
+WP Travel,wp-travel,17.01,8.52,5000,0,0,3.69,40,4.8,4.8
 Flexible Woocommerce Checkout Field Editor,flexible-woocommerce-checkout-field-editor,17.0,8.29,4000,0,0,4.01,55,4.7,4.7
 Frontend Post WordPress Plugin &#8211; AccessPress Anonymous Post,accesspress-anonymous-post,16.95,8.99,8000,0,0,3.26,26,4.7,4.7
 Brilliant Web-to-Lead for Salesforce,salesforce-wordpress-to-lead,16.94,8.99,8000,0,0,3.56,35,4.4,4.4
@@ -305,6 +335,7 @@ Advanced Shipment Tracking for WooCommerce,woo-advanced-shipment-tracking,16.94,
 Age Gate,age-gate,16.93,9.21,10000,0,0,3.22,25,4.5,4.5
 WordPress Meta Data and Taxonomies Filter (MDTF),wp-meta-data-filter-and-taxonomy-filter,16.92,9.1,9000,0,0,3.22,25,4.6,4.6
 Cornerstone,cornerstone,16.92,11.51,100000,0,0,1.61,5,3.8,3.8
+Appointment Booking Calendar,appointment-booking-calendar,16.92,8.52,5000,0,0,4.3,74,4.1,4.1
 Team,tlp-team,16.88,8.85,7000,0,0,3.53,34,4.5,4.5
 PublishPress &#8211; Professional publishing tools for WordPress,publishpress,16.87,7.6,2000,0,0,4.37,79,4.9,4.9
 ACF Theme Code for Advanced Custom Fields,acf-theme-code,16.81,9.1,9000,0,0,2.71,15,5.0,5.0
@@ -318,10 +349,12 @@ Memphis Documents Library,memphis-documents-library,16.73,8.7,6000,0,0,3.83,46,4
 Advanced Booking Calendar,advanced-booking-calendar,16.73,8.29,4000,0,0,3.74,42,4.7,4.7
 Custom Field Bulk Editor,custom-field-bulk-editor,16.72,8.29,4000,0,0,3.53,34,4.9,4.9
 Press Elements &#8211; Widgets for Elementor,press-elements,16.69,9.9,20000,0,0,2.89,18,3.9,3.9
+Top Bar,top-bar,16.68,9.21,10000,0,0,3.47,32,4.0,4.0
 MobiLoud &#8211; WordPress Mobile App &#8211; Convert your WordPress Website to Native Mobile Apps,mobiloud-mobile-app-plugin,16.62,7.6,2000,0,0,4.62,101,4.4,4.4
 Genesis Custom Footer,genesis-custom-footer,16.62,9.21,10000,0,0,2.71,15,4.7,4.7
 Cyr to Lat reloaded – transliteration of links and file names,cyr-and-lat,16.6,9.9,20000,0,0,2.4,11,4.3,4.3
 ACF Photo Gallery Field,navz-photo-gallery,16.58,9.21,10000,0,0,2.77,16,4.6,4.6
+Invite Anyone,invite-anyone,16.58,8.99,8000,0,0,3.09,22,4.5,4.5
 Broadcast,threewp-broadcast,16.56,6.91,1000,0,0,4.85,128,4.8,4.8
 Advanced Custom Fields Repeater &amp; Flexible Content Fields Collapser,advanced-custom-field-repeater-collapser,16.55,9.21,10000,0,0,2.64,14,4.7,4.7
 Schema App Structured Data,schema-app-structured-data-for-schemaorg,16.54,9.21,10000,0,0,3.33,28,4.0,4.0
@@ -336,6 +369,7 @@ Smart WooCommerce Search,smart-woocommerce-search,16.39,8.7,6000,0,0,2.89,18,4.8
 tao-schedule-update,tao-schedule-update,16.38,8.52,5000,0,0,3.26,26,4.6,4.6
 Smart Grid-Layout Design for Contact Form 7,cf7-grid-layout,16.35,9.1,9000,0,0,2.94,19,4.3,4.3
 WooCommerce Easy Booking,woocommerce-easy-booking-system,16.35,8.52,5000,0,0,3.43,31,4.4,4.4
+Quick Contact Form,quick-contact-form,16.33,8.7,6000,0,0,2.83,17,4.8,4.8
 Advanced Custom Fields: Gravityforms Add-on,acf-gravityforms-add-on,16.31,9.21,10000,0,0,2.4,11,4.7,4.7
 WPSSO Schema JSON-LD Markup for Google Rich Results SEO and Pinterest Rich Pins,wpsso-schema-json-ld,16.3,8.01,3000,0,0,3.69,40,4.6,4.6
 Gator Forms: the WordPress Contact Form with bite!,pwebcontact,16.3,8.29,4000,0,0,3.81,45,4.2,4.2
@@ -343,9 +377,11 @@ Revisionize,revisionize,16.29,8.29,4000,0,0,3.0,20,5.0,5.0
 NP Quote Request WooCommerce,woo-rfq-for-woocommerce,16.29,7.6,2000,0,0,3.69,40,5.0,5.0
 Kama Thumbnail,kama-thumbnail,16.29,9.1,9000,0,0,2.48,12,4.7,4.7
 WP-Property &#8211; WordPress Powered Real Estate and Property Management,wp-property,16.25,8.52,5000,0,0,4.33,76,3.4,3.4
+Mailjet Email Newsletter Marketing,mailjet-for-wordpress,16.25,9.21,10000,0,0,3.04,21,4.0,4.0
 WordPress Email Marketing Plugin &#8211; WP Email Capture,wp-email-capture,16.15,8.85,7000,0,0,3.0,20,4.3,4.3
 WordPress Tooltips,wordpress-tooltips,16.12,8.29,4000,0,0,3.83,46,4.0,4.0
 ACF Code Field,acf-code-field,16.1,9.1,9000,0,0,2.2,9,4.8,4.8
+Custom Instagram Feed,easy-instagram-feed,16.1,8.7,6000,0,0,3.0,20,4.4,4.4
 Jobs for WordPress,job-postings,16.07,8.01,3000,0,0,3.37,29,4.7,4.7
 Easy WP Meta Description,easy-wp-meta-description,16.07,8.99,8000,0,0,2.08,8,5.0,5.0
 UsersWP &#8211; User Profile &amp; Registration,userswp,16.05,8.52,5000,0,0,3.14,23,4.4,4.4
@@ -363,6 +399,7 @@ Portfolio,tlp-portfolio,15.93,8.29,4000,0,0,2.83,17,4.8,4.8
 Ultimate Reviews,ultimate-reviews,15.92,8.01,3000,0,0,3.71,41,4.2,4.2
 WPCargo Track &amp; Trace,wpcargo,15.91,8.52,5000,0,0,2.89,18,4.5,4.5
 Category and Taxonomy Image,wp-custom-taxonomy-image,15.89,8.85,7000,0,0,2.83,17,4.2,4.2
+AudioIgniter,audioigniter,15.88,8.29,4000,0,0,2.89,18,4.7,4.7
 JS Support Ticket,js-support-ticket,15.87,8.01,3000,0,0,3.76,43,4.1,4.1
 WP REST API Controller,wp-rest-api-controller,15.85,8.85,7000,0,0,2.4,11,4.6,4.6
 "GetSiteControl &#8211; WordPress Popups, Email Optin Forms, Website Surveys &amp; Live Chat Widget",getsitecontrol,15.84,8.85,7000,0,0,2.89,18,4.1,4.1
@@ -375,6 +412,8 @@ Gravity Forms Constant Contact,gravity-forms-constant-contact,15.75,9.21,10000,0
 Contact Form 7 &#8211; Post Fields,cf7-post-fields,15.74,7.6,2000,0,0,3.14,23,5.0,5.0
 Chatra Live Chat + Cart Saver,chatra-live-chat,15.69,8.29,4000,0,0,2.4,11,5.0,5.0
 Advanced Dynamic Pricing for WooCommerce,advanced-dynamic-pricing-for-woocommerce,15.68,8.01,3000,0,0,2.77,16,4.9,4.9
+DCO Insert Analytics Code,dco-insert-analytics-code,15.65,8.85,7000,0,0,1.79,6,5.0,5.0
+WP Twilio Core,wp-twilio-core,15.65,8.7,6000,0,0,1.95,7,5.0,5.0
 Product Options and Price Calculation Formulas for WooCommerce – Uni CPO,uni-woo-custom-product-options,15.63,7.6,2000,0,0,3.43,31,4.6,4.6
 File Gallery,file-gallery,15.62,8.85,7000,0,0,2.56,13,4.2,4.2
 Date and Time Picker Field,acf-field-date-time-picker,15.62,9.21,10000,0,0,2.71,15,3.7,3.7
@@ -387,6 +426,7 @@ Contact Form &amp; Lead Form Builder,lead-form-builder,15.56,9.21,10000,0,0,1.95
 SupportCandy,supportcandy,15.5,7.6,2000,0,0,3.3,27,4.6,4.6
 Back In Stock Notifier for WooCommerce | WooCommerce Waitlist Pro,back-in-stock-notifier-for-woocommerce,15.49,7.6,2000,0,0,2.89,18,5.0,5.0
 "WooCommerce PDF Builder, Create invoices, packing slips and more",woo-pdf-invoice-builder,15.49,6.91,1000,0,0,3.78,44,4.8,4.8
+Team,team-showcase,15.49,8.99,8000,0,0,2.4,11,4.1,4.1
 Directorist &#8211; Business Directory Plugin,directorist,15.48,7.6,2000,0,0,3.18,24,4.7,4.7
 Booking Activities,booking-activities,15.45,6.91,1000,0,0,3.64,38,4.9,4.9
 Easy Accordion &#8211; Best Accordion FAQ Plugin for WordPress,easy-accordion-free,15.44,8.29,4000,0,0,2.94,19,4.2,4.2
@@ -394,6 +434,8 @@ Query Wrangler,query-wrangler,15.43,6.91,1000,0,0,3.53,34,5.0,5.0
 Oi Yandex.Maps for WordPress,oi-yamaps,15.42,8.85,7000,0,0,2.56,13,4.0,4.0
 Advanced Forms,advanced-forms,15.37,7.6,2000,0,0,2.77,16,5.0,5.0
 Dynamic Conditions,dynamicconditions,15.37,7.6,2000,0,0,2.77,16,5.0,5.0
+Search by ID,search-by-id,15.37,7.6,2000,0,0,2.77,16,5.0,5.0
+WP Featured Content and Slider,wp-featured-content-and-slider,15.37,8.29,4000,0,0,2.08,8,5.0,5.0
 FG Drupal to WordPress,fg-drupal-to-wp,15.34,6.91,1000,0,0,3.93,51,4.5,4.5
 WooCommerce Product Custom Options Lite,woocommerce-custom-options-lite,15.33,7.6,2000,0,0,3.33,28,4.4,4.4
 Page Generator,page-generator,15.33,7.6,2000,0,0,3.33,28,4.4,4.4
@@ -405,6 +447,7 @@ IntelliWidget Per Page Custom Menus and Dynamic Content,intelliwidget-per-page-f
 Woo Custom Emails Per Product,woo-custom-emails-per-product,15.29,8.29,4000,0,0,2.4,11,4.6,4.6
 Glossary,glossary-by-codeat,15.27,6.91,1000,0,0,3.66,39,4.7,4.7
 Contact Form 7 Campaign Monitor Extension,contact-form-7-campaign-monitor-extension,15.27,8.29,4000,0,0,3.18,24,3.8,3.8
+Responsive Filterable Portfolio,responsive-filterable-portfolio,15.27,8.01,3000,0,0,2.56,13,4.7,4.7
 Staff List,staff-list,15.25,8.01,3000,0,0,2.64,14,4.6,4.6
 Request Form for Zendesk,zendesk-request-form,15.24,7.6,2000,0,0,2.64,14,5.0,5.0
 Dynamic User Directory,dynamic-user-directory,15.24,6.91,1000,0,0,3.33,28,5.0,5.0
@@ -416,13 +459,16 @@ WC &#8211; APG NIF/CIF/NIE Field,wc-apg-nifcifnie-field,15.2,8.01,3000,0,0,2.2,9
 WordPress Project Management by UpStream,upstream,15.19,6.91,1000,0,0,3.78,44,4.5,4.5
 Multisite Post Duplicator,multisite-post-duplicator,15.16,6.91,1000,0,0,3.56,35,4.7,4.7
 Simple CSV/XLS Exporter,simple-csv-xls-exporter,15.16,8.29,4000,0,0,2.56,13,4.3,4.3
+Genesis Author Pro,genesis-author-pro,15.14,8.29,4000,0,0,1.95,7,4.9,4.9
 Obfuscate Email,obfuscate-email,15.11,9.21,10000,0,0,2.3,10,3.6,3.6
+Add to Cart Button Custom Text,add-to-cart-button-custom-text,15.11,8.52,5000,0,0,1.79,6,4.8,4.8
 Contact Form 7 Polylang Module,cf7-polylang,15.1,8.7,6000,0,0,2.3,10,4.1,4.1
 Gravity Slider Fields,gravity-slider-fields,15.09,8.01,3000,0,0,2.08,8,5.0,5.0
 WordPress Contact Forms by Cimatti,contact-forms,15.01,8.01,3000,0,0,2.71,15,4.3,4.3
 Product Input Fields for WooCommerce,product-input-fields-for-woocommerce,15.0,8.01,3000,0,0,2.2,9,4.8,4.8
 "WP User &#8211; Custom Registration Forms, Login and User Profile",wp-user,15.0,6.91,1000,0,0,3.3,27,4.8,4.8
 WooCommerce Cart Stock Reducer,woocommerce-cart-stock-reducer,14.98,6.91,1000,0,0,3.37,29,4.7,4.7
+Pop-Up CC,pop-up,14.97,8.29,4000,0,0,2.77,16,3.9,3.9
 WP Custom Fields Search,wp-custom-fields-search,14.95,8.52,5000,0,0,3.14,23,3.3,3.3
 ACF Post-2-Post,post-2-post-for-acf,14.95,6.91,1000,0,0,3.04,21,5.0,5.0
 Bulk Edit Posts and Products in Spreadsheet,wp-sheet-editor-bulk-spreadsheet-editor-for-posts-and-pages,14.95,6.91,1000,0,0,3.64,38,4.4,4.4
@@ -445,6 +491,7 @@ CM On Demand Search And Replace,cm-on-demand-search-and-replace,14.8,8.29,4000,0
 Team Members Staff Showcase Plugin &#8211; Employee Spotlight,employee-spotlight,14.8,6.91,1000,0,0,3.0,20,4.9,4.9
 Ultimate Fields,ultimate-fields,14.75,6.91,1000,0,0,2.94,19,4.9,4.9
 Woocommerce Custom Tabs,woocommerce-custom-tabs,14.75,8.01,3000,0,0,2.94,19,3.8,3.8
+Best Import,best-import,14.74,6.91,1000,0,0,3.14,23,4.7,4.7
 Locatoraid Store Locator,locatoraid,14.71,7.6,2000,0,0,2.71,15,4.4,4.4
 SNS Count Cache,sns-count-cache,14.7,9.9,20000,0,0,1.1,3,3.7,3.7
 Chamber Dashboard Business Directory,chamber-dashboard-business-directory,14.7,6.91,1000,0,0,3.0,20,4.8,4.8
@@ -481,6 +528,7 @@ WP No External Links,no-external-links,14.32,8.52,5000,0,0,1.1,3,4.7,4.7
 WooCommerce Add to Cart Custom Redirect,woocommerce-add-to-cart-custom-redirect,14.28,7.6,2000,0,0,2.08,8,4.6,4.6
 BuddyPress Xprofile Custom Field Types,bp-xprofile-custom-field-types,14.21,7.6,2000,0,0,1.61,5,5.0,5.0
 ACF User Role Field Setting,user-role-field-setting-for-acf,14.21,7.6,2000,0,0,1.61,5,5.0,5.0
+KIA Subtitle,kia-subtitle,14.21,6.91,1000,0,0,2.3,10,5.0,5.0
 Affiliate Toolkit Starter,affiliate-toolkit-starter,14.2,6.8,900,0,0,2.4,11,5.0,5.0
 Posts By Tag,posts-by-tag,14.17,8.01,3000,0,0,2.56,13,3.6,3.6
 Profile Extra Fields by BestWebSoft,profile-extra-fields,14.11,6.91,1000,0,0,2.3,10,4.9,4.9
@@ -489,7 +537,9 @@ SMS Alert Order Notifications &#8211; WooCommerce,sms-alert,14.1,6.91,1000,0,0,2
 Custom Fields WooCommerce Checkout Page,woo-checkout-regsiter-field-editor,14.09,6.91,1000,0,0,2.48,12,4.7,4.7
 Tabs,tabs,14.09,7.6,2000,0,0,1.79,6,4.7,4.7
 Phone Orders for WooCommerce,phone-orders-for-woocommerce,14.08,6.68,800,0,0,2.4,11,5.0,5.0
+Simple Business Directory with Maps,phone-directory,14.0,5.7,300,0,0,3.3,27,5.0,5.0
 ACF Recent Posts Widget,acf-recent-posts-widget,13.99,6.91,1000,0,0,2.08,8,5.0,5.0
+Archive Control,archive-control,13.99,6.91,1000,0,0,2.08,8,5.0,5.0
 Menu Item Custom Fields,menu-item-custom-fields,13.97,6.91,1000,0,0,2.56,13,4.5,4.5
 Custom Banners,custom-banners,13.95,8.85,7000,0,0,1.79,6,3.3,3.3
 Coupon Box for WooCommerce,woo-coupon-box,13.92,6.91,1000,0,0,2.71,15,4.3,4.3
@@ -527,6 +577,7 @@ Story Chief,story-chief,13.52,6.91,1000,0,0,1.61,5,5.0,5.0
 ImportWP &#8211; Import any XML or CSV File into WordPress,jc-importer,13.51,6.91,1000,0,0,2.4,11,4.2,4.2
 Auto Listings,auto-listings,13.5,6.91,1000,0,0,2.2,9,4.4,4.4
 oik,oik,13.5,8.7,6000,0,0,1.1,3,3.7,3.7
+Tooltip CK,tooltip-ck,13.5,6.91,1000,0,0,2.2,9,4.4,4.4
 Contact form 7 Custom validation,cf7-field-validation,13.49,8.01,3000,0,0,2.08,8,3.4,3.4
 Taxonomy filter,taxonomy-filter,13.48,6.68,800,0,0,2.2,9,4.6,4.6
 Reorder by Term,reorder-by-term,13.41,6.8,900,0,0,1.61,5,5.0,5.0
@@ -542,6 +593,9 @@ Elementor Element Condition,ele-conditions,13.29,6.91,1000,0,0,1.39,4,5.0,5.0
 WordPress Login Form,wp-login-form,13.29,7.6,2000,0,0,0.69,2,5.0,5.0
 API Bing Map 2018,api-bing-map-2018,13.29,6.91,1000,0,0,1.39,4,5.0,5.0
 Checkout Files Upload for WooCommerce,checkout-files-upload-woocommerce,13.29,7.6,2000,0,0,0.69,2,5.0,5.0
+Post Custom Templates Lite,post-custom-templates-lite,13.29,6.91,1000,0,0,1.39,4,5.0,5.0
+WP Advanced PDF,wp-advanced-pdf,13.29,7.6,2000,0,0,2.48,12,3.2,3.2
+Payment Forms for Paystack,payment-forms-for-paystack,13.29,8.29,4000,0,0,0.0,1,5.0,5.0
 Airpress,airpress,13.28,6.4,600,0,0,2.08,8,4.8,4.8
 Best Customer Customer Service Software &amp; Support Ticket System for WordPress,wp-ticket,13.22,5.99,400,0,0,2.83,17,4.4,4.4
 WordPress Custom Settings,custom-settings,13.2,6.91,1000,0,0,1.79,6,4.5,4.5
@@ -562,9 +616,15 @@ Custom Payment Gateways for WooCommerce,custom-payment-gateways-woocommerce,13.0
 MASS Users Password Reset,mass-users-password-reset,13.01,6.8,900,0,0,1.61,5,4.6,4.6
 "Product GTIN (EAN, UPC, ISBN) for WooCommerce",product-gtin-ean-upc-isbn-for-woocommerce,13.01,6.91,1000,0,0,1.1,3,5.0,5.0
 Multiple Post Passwords,multiple-post-passwords,13.01,6.4,600,0,0,1.61,5,5.0,5.0
+WooCommerce Variation Swatches,woo-product-variation-swatches,13.01,6.91,1000,0,0,1.1,3,5.0,5.0
+Buckets,buckets,13.01,6.91,1000,0,0,1.1,3,5.0,5.0
+123ContactForm for WordPress,123contactform-for-wordpress,13.01,8.01,3000,0,0,0.0,1,5.0,5.0
+ACF Options For Polylang,acf-options-for-polylang,13.01,6.91,1000,0,0,1.1,3,5.0,5.0
 Conekta Payment Gateway,conekta-payment-gateway,12.99,7.6,2000,0,0,1.39,4,4.0,4.0
 WP Posts Master,wp-posts-master,12.99,6.91,1000,0,0,2.08,8,4.0,4.0
 Caldera Custom Fields,caldera-form-metabox,12.98,8.29,4000,0,0,1.39,4,3.3,3.3
+WordPress CRM Plugin &#8211; WP-CRM System,wp-crm-system,12.96,5.99,400,0,0,2.56,13,4.4,4.4
+WooCommerce SuperFaktura,woocommerce-superfaktura,12.94,6.55,700,0,0,1.39,4,5.0,5.0
 Redirect Post to URL,redirect-post-to-url,12.92,6.91,1000,0,0,1.61,5,4.4,4.4
 Easy Query &#8211; WP Query Builder,easy-query,12.9,6.8,900,0,0,1.1,3,5.0,5.0
 Contact Form 7 Cost Calculator &#8211; Price Calculation Free,cf7-cost-calculator-price-calculation,12.9,8.29,4000,0,0,1.61,5,3.0,3.0
@@ -573,10 +633,15 @@ WP Register Profile With Shortcode,wp-register-profile-with-shortcode,12.81,6.91
 Advanced Custom Fields: Extended,acf-extended,12.78,5.7,300,0,0,2.08,8,5.0,5.0
 Advanced Custom Fields Viewer,advanced-custom-fields-viewer,12.78,6.4,600,0,0,1.39,4,5.0,5.0
 Classified Listing,classified-listing,12.78,6.4,600,0,0,1.39,4,5.0,5.0
+Accordeon Menu CK,accordeon-menu-ck,12.78,6.4,600,0,0,1.39,4,5.0,5.0
+Location &quot;Nav Menu&quot; for ACF,location-nav-menu-for-acf,12.78,6.4,600,0,0,1.39,4,5.0,5.0
 Frontend Gallery Slider For ACF,frontend-gallery-slider-for-advanced-custom-field,12.71,6.91,1000,0,0,1.1,3,4.7,4.7
 GatherContent Plugin,gathercontent-import,12.7,6.91,1000,0,0,1.79,6,4.0,4.0
+Simple Masonry Gallery,simple-masonry-gallery,12.7,6.91,1000,0,0,1.79,6,4.0,4.0
+Advanced Custom Fields: Number Slider,advanced-custom-fields-number-slider,12.7,6.91,1000,0,0,1.79,6,4.0,4.0
 Seraphinite Post .DOCX Source,seraphinite-post-docx-source,12.69,5.7,300,0,0,2.48,12,4.5,4.5
 Gutenberg Page Building Toolkit – EditorsKit,block-options,12.69,6.4,600,0,0,1.79,6,4.5,4.5
+WP FullText Search,fulltext-search,12.69,6.4,600,0,0,1.79,6,4.5,4.5
 Staff Directory &#8211; Employee Directory for WordPress,employee-directory,12.68,5.99,400,0,0,2.48,12,4.2,4.2
 Custom post types,custom-post-types,12.65,6.55,700,0,0,1.1,3,5.0,5.0
 ACF Tooltip,acf-tooltip,12.65,6.55,700,0,0,1.1,3,5.0,5.0
@@ -589,6 +654,7 @@ Import Listings into the Listify Theme,listify-xml-csv-listings-import,12.6,6.91
 Good old Share,good-old-share,12.6,6.21,500,0,0,1.39,4,5.0,5.0
 Falcon &#8211; WordPress Optimization,falcon,12.6,6.91,1000,0,0,0.69,2,5.0,5.0
 Best Contact Management Software for WordPress,wp-easy-contact,12.6,6.21,500,0,0,1.39,4,5.0,5.0
+Post Category Image With Grid and Slider,post-category-image-with-grid-and-slider,12.6,6.91,1000,0,0,0.69,2,5.0,5.0
 WP Ultimate Exporter,wp-ultimate-exporter,12.58,7.6,2000,0,0,2.08,8,2.9,2.9
 Professional WordPress Plugin Development &#8211; WP App Studio,wp-app-studio,12.52,5.7,300,0,0,3.22,25,3.6,3.6
 ACF Medium Editor Field,acf-medium-editor-field,12.5,6.8,900,0,0,0.69,2,5.0,5.0
@@ -599,6 +665,7 @@ ACF Page Builder Field,acf-page-builder-field,12.45,6.8,900,0,0,1.95,7,3.7,3.7
 My Content Management,my-content-management,12.42,6.21,500,0,0,1.61,5,4.6,4.6
 WordPress Product Excel Import &amp; Export for WooCommerce,woo-product-excel-importer,12.41,6.91,1000,0,0,2.3,10,3.2,3.2
 BuddyPress XProfile Custom Image Field,buddypress-xprofile-image-field,12.4,6.21,500,0,0,1.39,4,4.8,4.8
+Zendesk Support for WordPress,zendesk,12.4,8.52,5000,0,0,1.39,4,2.5,2.5
 Woocommerce Custom Fields For Variation,woo-custom-fields-for-variation,12.39,6.91,1000,0,0,2.48,12,3.0,3.0
 ACF Admin Flexible Content Collapse,acf-admin-flexible-content-collapse,12.38,6.68,800,0,0,0.69,2,5.0,5.0
 WooCommerce Add Custom Fee,woo-add-custom-fee,12.38,6.68,800,0,0,0.69,2,5.0,5.0
@@ -606,9 +673,12 @@ CMS2CMS: Automated Joomla To WordPress Migration,cms2cms-joomla-to-wp-migration,
 More-Lang,more-lang,12.31,5.7,300,0,0,1.61,5,5.0,5.0
 PDF24 Article To PDF,pdf24-post-to-pdf,12.29,6.91,1000,0,0,2.08,8,3.3,3.3
 Google Map for Contact Form 7,cf7-google-map,12.29,6.68,800,0,0,1.61,5,4.0,4.0
+Page Title Splitter,page-title-splitter,12.29,6.91,1000,0,0,1.39,4,4.0,4.0
 Advanced Custom Fields: Price Field,acf-price,12.24,6.55,700,0,0,0.69,2,5.0,5.0
 ACF Multi Dates Field,acf-multi-dates-picker,12.24,6.55,700,0,0,0.69,2,5.0,5.0
 Revision Manager TMC,revision-manager-tmc,12.24,5.3,200,0,0,1.95,7,5.0,5.0
+Magic Tooltips For Contact Form 7,magic-tooltips-for-contact-form-7,12.24,6.55,700,0,0,0.69,2,5.0,5.0
+BePro Listings Business Directory,bepro-listings-business-directory,12.24,5.3,200,0,0,1.95,7,5.0,5.0
 IEX Integration,iex-integration,12.19,6.8,900,0,0,1.39,4,4.0,4.0
 Advanced Custom Fields: Restrict Color Picker Options,acf-restrict-color-picker,12.09,6.4,600,0,0,0.69,2,5.0,5.0
 Custom Fields Permalink 2,custom-fields-permalink-redux,12.09,5.99,400,0,0,1.1,3,5.0,5.0
@@ -628,6 +698,7 @@ WOOEXIM &#8211; WooCommerce Export Import Plugin,wooexim,12.06,6.68,800,0,0,2.08
 Advanced Custom Fields: Ninjaforms Add-on,acf-ninjaforms-add-on,11.91,6.91,1000,0,0,0.0,1,5.0,5.0
 Pods SEO,pods-seo,11.91,6.91,1000,0,0,0.0,1,5.0,5.0
 Import into Easy Property Listings,easy-property-listings-xml-csv-import,11.91,6.91,1000,0,0,0.0,1,5.0,5.0
+Easy Newsletter Signups,easy-newsletter-signups,11.91,6.21,500,0,0,0.69,2,5.0,5.0
 Advanced Custom Fields: Link,acf-link,11.8,6.4,600,0,0,1.1,3,4.3,4.3
 Keyring Social Importers,keyring-social-importers,11.8,5.7,300,0,0,1.1,3,5.0,5.0
 Ecalypse Rental Starter,ecalypse-rental-starter,11.8,5.7,300,0,0,1.79,6,4.3,4.3
@@ -637,6 +708,7 @@ WP e-Commerce &#8211; Custom Fields,wp-e-commerce-custom-fields,11.68,5.99,400,0
 Where Did You Hear About Us Checkout Field for WooCommerce,wc-customer-source,11.68,6.68,800,0,0,0.0,1,5.0,5.0
 ACF for WooCommerce Product,acf-for-woocommerce-product,11.68,6.68,800,0,0,0.0,1,5.0,5.0
 ACF Color Swatches,acf-color-swatches,11.68,6.68,800,0,0,0.0,1,5.0,5.0
+Login Require Press,loginrequirepress,11.6,5.99,400,0,0,1.61,5,4.0,4.0
 Custom User Contact Form Builder,custom-user-contact-form-builder,11.5,5.3,200,0,0,2.3,10,3.9,3.9
 Ultimate CMS,ultimate-cms,11.5,5.3,200,0,0,2.2,9,4.0,4.0
 Display Post Metadata,display-post-metadata,11.4,6.4,600,0,0,0.0,1,5.0,5.0
@@ -649,6 +721,9 @@ Pronamic Events,pronamic-events,11.4,5.7,300,0,0,0.69,2,5.0,5.0
 WPPayForm for Stripe WordPress Payments Plugin,wp-payment-form,11.4,5.3,200,0,0,1.1,3,5.0,5.0
 MB Relationships,mb-relationships,11.4,6.4,600,0,0,0.0,1,5.0,5.0
 Lazy Sign-in,lazy-sign-in,11.4,4.61,100,0,0,1.79,6,5.0,5.0
+Advanced Custom Fields: Widget,advanced-custom-fields-widget,11.4,6.4,600,0,0,0.0,1,5.0,5.0
+Get User Custom Field Values,get-user-custom-field-values,11.4,5.7,300,0,0,0.69,2,5.0,5.0
+Brozzme Switch and Duplicate,brozzme-switch-duplicate,11.4,5.3,200,0,0,1.1,3,5.0,5.0
 Gutenberg Custom Fields,gutenberg-custom-fields,11.39,5.3,200,0,0,1.79,6,4.3,4.3
 WP Multisite Content Copier,wp-multisite-content-copier,11.39,5.3,200,0,0,1.79,6,4.3,4.3
 Import Properties into RealHomes Theme,realhomes-xml-csv-property-listings-import,11.38,6.68,800,0,0,0.69,2,4.0,4.0
@@ -673,6 +748,7 @@ GS Custom Login,gs-custom-login,10.99,5.3,200,0,0,0.69,2,5.0,5.0
 Import Listings into WP Pro Real Estate 7,wp-pro-real-estate-7-xml-csv-property-listings-import,10.99,5.99,400,0,0,0.0,1,5.0,5.0
 Easy ACF Connect For Themer,easy-acf-connect-for-themer,10.99,4.61,100,0,0,1.39,4,5.0,5.0
 Groundhogg — Marketing Automation &amp; CRM for WordPress,groundhogg,10.99,5.3,200,0,0,0.69,2,5.0,5.0
+WooCommerce Zoho Integration,woo-zoho,10.99,5.3,200,0,0,0.69,2,5.0,5.0
 Woocommerce Customer Delivery Date Time Selection,woocommerce-customer-delivery-date-time-selection,10.91,5.3,200,0,0,1.61,5,4.0,4.0
 WP e-Commerce &#8211; Store Exporter,wp-e-commerce-exporter,10.84,5.99,400,0,0,1.95,7,2.9,2.9
 Gravity Forms FreshDesk Plugin,gf-freshdesk,10.81,4.61,100,0,0,1.61,5,4.6,4.6
@@ -689,8 +765,10 @@ Gravity Forms Infusionsoft,gf-infusionsoft,10.7,4.61,100,0,0,1.1,3,5.0,5.0
 Connections Business Directory Toolbar,connections-toolbar,10.7,5.7,300,0,0,0.0,1,5.0,5.0
 Sogo Calendar Widget,sogo-calendar-widget,10.7,4.61,100,0,0,1.1,3,5.0,5.0
 Select 2 Post Selector,select2-post-selector,10.7,4.61,100,0,0,1.1,3,5.0,5.0
+Contact Form With Shortcode,contact-form-with-shortcode,10.7,5.7,300,0,0,0.0,1,5.0,5.0
 Boat Dealer,boatdealer,10.69,4.5,90,0,0,1.39,4,4.8,4.8
 Shortcodes and extra features for Phlox theme,auxin-elements,10.6,10.6,40000,0,0,0,0,0.0,0.0
+BSK Gravity Forms Blacklist,bsk-gravityforms-blacklist,10.5,5.7,300,0,0,1.1,3,3.7,3.7
 COD Order Confirmation for India,cod-confirmation-for-india,10.48,4.09,60,0,0,1.39,4,5.0,5.0
 JoeBooking &#8211; Time Slot Booking,joebooking,10.45,4.61,100,0,0,1.95,7,3.9,3.9
 WP Simple Pay Lite Companion,stripe-checkouts,10.4,5.3,200,0,0,1.1,3,4.0,4.0
@@ -704,6 +782,7 @@ Product Excel Import &amp; Bulk Edit for WooCommerce,webd-woocommerce-product-ex
 Contact Form 7 Infusionsoft,cf7-infusionsoft,10.3,4.61,100,0,0,0.69,2,5.0,5.0
 WordPress Easy Custom Js And Css Plugin,easy-custom-js-and-css,10.3,4.61,100,0,0,0.69,2,5.0,5.0
 Custom Products for WooCommerce,custom-products-for-woocommerce,10.3,5.3,200,0,0,0.0,1,5.0,5.0
+Wow Forms &#8211; create any form with custom style,mwp-forms,10.3,5.3,200,0,0,0.0,1,5.0,5.0
 WooCommerce Bulk Edit Coupons &#8211; WP Sheet Editor,woo-coupons-bulk-editor,10.19,4.09,60,0,0,1.1,3,5.0,5.0
 ACF PHP VARS,acf-php-vars,10.1,3.69,40,0,0,1.61,5,4.8,4.8
 My Custom Styles,my-custom-styles,10.09,6.4,600,0,0,0.69,2,3.0,3.0
@@ -713,6 +792,8 @@ WP REST Menus,wp-rest-menu,9.94,4.25,70,0,0,0.69,2,5.0,5.0
 Post to CSV by BestWebSoft,post-to-csv,9.9,5.7,300,0,0,0.69,2,3.5,3.5
 Minimum Dimensions For Image Field,minimum-dimensions-for-image-field,9.79,4.09,60,0,0,0.69,2,5.0,5.0
 WooCommerce Salesforce Integration,woo-salesforce-plugin-crm-perks,9.79,4.09,60,0,0,0.69,2,5.0,5.0
+Gravity Forms Zoho CRM Add-on,gf-zoho,9.79,4.09,60,0,0,0.69,2,5.0,5.0
+Contact Form 7 Dynamics CRM,cf7-dynamics-crm,9.79,4.09,60,0,0,0.69,2,5.0,5.0
 Custom Field List Widget,custom-field-list-widget,9.68,5.99,400,0,0,0.69,2,3.0,3.0
 Import Listings into the Listable Theme,import-xml-csv-listings-to-listable-theme,9.68,5.99,400,0,0,0.69,2,3.0,3.0
 Embed Custom Field,embed-custom-field,9.61,4.61,100,0,0,0.0,1,5.0,5.0
@@ -748,6 +829,7 @@ Advanced Custom Fields Sidebar,acf-sidebar,8.69,3.69,40,0,0,0.0,1,5.0,5.0
 Wherewithal Enhanced Search,wherewithal,8.69,3.69,40,0,0,0.0,1,5.0,5.0
 Backend Custom Fields For Forms Management System,backend-custom-fields,8.69,3.69,40,0,0,0.0,1,5.0,5.0
 Anton Extensions,4nton-extensions,8.69,3.69,40,0,0,0.0,1,5.0,5.0
+Connections Business Directory Local Time,connections-business-directory-local-time,8.69,3.69,40,0,0,0.0,1,5.0,5.0
 Buddypress XProfile Custom Field Types Reloaded,bp-xprofile-custom-fields,8.61,4.61,100,0,0,0.0,1,4.0,4.0
 Silent Publish,silent-publish,8.61,4.61,100,0,0,0.0,1,4.0,4.0
 ACF: Rus-To-Lat,acf-rus-to-lat,8.52,8.52,5000,0,0,0,0,0.0,0.0
@@ -755,38 +837,52 @@ nLingual,nlingual,8.44,4.25,70,0,0,0.69,2,3.5,3.5
 Advanced Custom Fields: Image Size Select Field,acf-image-size-select,8.4,3.4,30,0,0,0.0,1,5.0,5.0
 AccessPress Custom Post Type,accesspress-custom-post-type,8.4,6.4,600,0,0,0.0,1,2.0,2.0
 Duplicate taxonomy terms and ACF fields,duplicate-taxonomy-terms-and-acf-fields,8.3,4.61,100,0,0,0.69,2,3.0,3.0
+Spreadsheet Product Attribute And Tag Manager for WooCommerce and WP E-commerce &#8211; Light,excel-like-product-attribute-and-tag-manager,8.3,4.61,100,0,0,0.69,2,3.0,3.0
 PixFields,pixfields,8.01,8.01,3000,0,0,0,0,0.0,0.0
 Custom Checkout Fields for WooCommerce,custom-checkout-fields-for-woocommerce,8.0,3.0,20,0,0,0.0,1,5.0,5.0
 Boost Yoast Analysis CFS,boost-yoast-analysis-cfs,8.0,3.0,20,0,0,0.0,1,5.0,5.0
+Advanced Widgets for Elementor,advanced-elementor,7.61,4.61,100,0,0,0.0,1,3.0,3.0
 Bizworx Tools,bizworx-tools,7.6,7.6,2000,0,0,0,0,0.0,0.0
 SuevaFree Essential Kit,suevafree-essential-kit,6.91,6.91,1000,0,0,0,0,0.0,0.0
 MB Rest API,mb-rest-api,6.91,6.91,1000,0,0,0,0,0.0,0.0
 Meta Box for Yoast SEO,meta-box-yoast-seo,6.91,6.91,1000,0,0,0,0,0.0,0.0
 ACF: Advanced Taxonomy Selector,acf-advanced-taxonomy-selector,6.8,6.8,900,0,0,0,0,0.0,0.0
 Import Property Listings into WP Residence,wp-residence-add-on-for-wp-all-import,6.68,6.68,800,0,0,0,0,0.0,0.0
+Terra Themes Tools,terra-themes-tools,6.4,6.4,600,0,0,0,0,0.0,0.0
+Clean Unused Medias,clean-unused-medias,6.3,5.3,200,0,0,0.0,1,1.0,1.0
 ACF Field For Contact Form 7,acf-field-for-contact-form-7,6.21,6.21,500,0,0,0,0,0.0,0.0
 Convert custom fields to custom taxonomies,custom-fields-to-taxonomies,6.1,0,0,0,0,1.1,3,5.0,5.0
 Advanced Custom Fields: Get nav menus,acf-get-nav-menus,5.99,5.99,400,0,0,0,0,0.0,0.0
 Price Field,price-field,5.99,5.99,400,0,0,0,0,0.0,0.0
 Contact Form 7 Database &#8211; CFDB7,advanced-cf7-database,5.99,5.99,400,0,0,0,0,0.0,0.0
 PCRecruiter Extensions,pcrecruiter-extensions,5.99,5.99,400,0,0,0,0,0.0,0.0
+Moosend Subscription Forms for WordPress,moosend,5.99,5.99,400,0,0,0,0,0.0,0.0
 Live Search and Custom Fields LITE &#8211; Advanced Filter,live-search-custom-fields-lite,5.7,5.7,300,0,0,0,0,0.0,0.0
 Simple Calendar &#8211; Advanced Custom Fields,simple-calendar-acf,5.7,5.7,300,0,0,0,0,0.0,0.0
 Advanced Custom Fields: Button Field,acf-button,5.7,5.7,300,0,0,0,0,0.0,0.0
+WPCasa All Import,wpcasa-all-import,5.7,5.7,300,0,0,0,0,0.0,0.0
 Advanced Custom Fields options import/export,acf-options-importexport,5.61,4.61,100,0,0,0.0,1,1.0,1.0
 Advanced Custom Fields: Archive Templates,acf-archive,5.3,5.3,200,0,0,0,0,0.0,0.0
 Dadevarzan Beaver Builder Modules,dadevarzan-beaver-builder-modules,5.3,5.3,200,0,0,0,0,0.0,0.0
 Meta Box &#8211; Beaver Themer Integrator,meta-box-beaver-themer-integrator,5.3,5.3,200,0,0,0,0,0.0,0.0
+Date/Time Fields for Gravity Forms,datetime-fields-for-gravityforms,5.3,5.3,200,0,0,0,0,0.0,0.0
+User Submit Posts on Frontend with Gutenberg Editor,bulk-edit-posts-on-frontend,5.1,0,0,0,0,1.1,3,4.0,4.0
 Advanced Custom Fields: Position Field,advanced-custom-fields-position-field,5.0,0,0,0,0,0.0,1,5.0,5.0
 All custom fields &amp; groups,all-custom-fields-groups,5.0,0,0,0,0,0.0,1,5.0,5.0
 Custom Field Builder &#8211; WordPress custom fields plugin,custom-field-builder,5.0,0,0,0,0,0.0,1,5.0,5.0
 Posterno &#8211; Listings Directory &amp; Classifieds,posterno,5.0,0,0,0,0,0.0,1,5.0,5.0
 Todo Custom Field,todo-custom-field,5.0,0,0,0,0,0.0,1,5.0,5.0
+PW WooCommerce Let&#039;s Export!,pw-woocommerce-lets-export,5.0,0,0,0,0,0.0,1,5.0,5.0
 Woocommerce Custom Checkout Fields Editor With Drag &amp; Drop,woo-custom-checkout-fields,4.61,4.61,100,0,0,0,0,0.0,0.0
+Dadevarzan WordPress Gallery,dadevarzan-wp-gallery,4.61,4.61,100,0,0,0,0,0.0,0.0
+CP Phone Link,cp-phone-link,4.61,4.61,100,0,0,0,0,0.0,0.0
 Remove custom fields metabox,remove-custom-fields-metabox,4.5,4.5,90,0,0,0,0,0.0,0.0
 CIO Custom Field Groups for PODS,custom-field-groups-for-pods,4.5,4.5,90,0,0,0,0,0.0,0.0
 Custom Field Manager,custom-field-manager,4.25,4.25,70,0,0,0,0,0.0,0.0
 JSM&#039;s Show Term Meta,jsm-show-term-meta,4.25,4.25,70,0,0,0,0,0.0,0.0
+WP All Import &#8211; WP Job Manager Field Editor Add-On,smyles-wp-job-manager-field-editor-import,4.25,4.25,70,0,0,0,0,0.0,0.0
+ACF Stylizer,acf-stylizer,4.25,4.25,70,0,0,0,0,0.0,0.0
+EngageBay Forms &#8211; Simple and Powerful Forms to Capture and Nurture Leads,engagebay-forms,3.4,3.4,30,0,0,0,0,0.0,0.0
 SEO Writing Assistant SEMrush Custom Fields,seo-writing-assistant-semrush-custom-fields,3.0,3.0,20,0,0,0,0,0.0,0.0
 Zen Custom Fields,zen-custom-fields,0.0,0,0,0,0,0,0,0.0,0.0
 Bonzer Custom Fields Creator,bonzer-custom-fields,0.0,0,0,0,0,0,0,0.0,0.0
@@ -800,3 +896,7 @@ WP Custom field for Gutenberg Editor,wp-custom-field-for-gutenberg-editor,0.0,0,
 Advanced Custom Fields Code Snippets,acf-code-snippets,0.0,0,0,0,0,0,0,0.0,0.0
 Advanced Custom Fields: Media Field,acf-media,0.0,0,0,0,0,0,0,0.0,0.0
 Advanced Custom Fields : Field Name Copier,acf-field-name-copier,0.0,0,0,0,0,0,0,0.0,0.0
+Advanced Custom Fields: Date Selector,acf-date-selector,0.0,0,0,0,0,0,0,0.0,0.0
+Custom field tab for woocommerce product,custom-field-tab-for-woocommerce-product,0.0,0,0,0,0,0,0,0.0,0.0
+Advanced Custom Fields: DB Field,acf-db-field,0.0,0,0,0,0,0,0,0.0,0.0
+Custom Tabs &amp; Fields for Woocommerce,moodgiver-custom-tabs-fields-for-woocommerce,0.0,0,0,0,0,0,0,0.0,0.0
