@@ -28,14 +28,14 @@ def main():
     review_count = int(re.sub(',', '', review_count_str))
     match = re.search(avg_rating_regex, html)
     avg_rating = float(match.group(1))
-    weighted_active_installs = round(math.log(active_installs), 2) if active_installs != 0 else 0
+    weighted_active_installs = math.log(active_installs) if active_installs != 0 else 0
     weighted_relevance = relevance * 10
-    weighted_review_count = round(math.log(review_count), 2) if review_count != 0 else 0
+    weighted_review_count = math.log(review_count) if review_count != 0 else 0
     weighted_avg_rating = avg_rating
     my_score = (
       weighted_active_installs + weighted_relevance + weighted_review_count + weighted_avg_rating
     )
-    new_rows.append([
+    new_row = [
       title,
       plugin_slug,
       my_score,
@@ -47,7 +47,8 @@ def main():
       review_count,
       weighted_avg_rating,
       avg_rating,
-    ])
+    ]
+    new_rows.append([round(x, 2) if hasattr(x, '__round__') else x for x in new_row])
     if irow % 100 == 0:
       write_results(new_rows, config_dict)
   write_results(new_rows, config_dict)

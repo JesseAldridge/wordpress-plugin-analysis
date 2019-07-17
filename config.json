@@ -1,5 +1,5 @@
 {
-  "url": "https://wordpress.org/plugins/search/custom+fields/page/{}/",
-  "csv-filename": "plugins-custom-fields.csv",
+  "url": "https://wordpress.org/plugins/search/profile/page/{}/",
+  "csv-filename": "data/plugins-profiles.csv",
   "query_str": ""
 }

@@ -44,7 +44,6 @@ class Writer:
     self.f.close()
 
   def write(self, vals):
-    print("writing:", vals)
     self.writer.writerow(vals)
 
 def main():
