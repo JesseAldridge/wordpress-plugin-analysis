@@ -1,5 +1,5 @@
 {
-  "url": "https://wordpress.org/plugins/search/profile/page/{}/",
-  "csv-filename": "data/plugins-login.csv",
-  "query_str": "login"
+  "url": "https://wordpress.org/plugins/search/{query_str}/page/{page}/",
+  "csv-filename": "data/plugins-{query_str}.csv",
+  "query_str": "booking"
 }

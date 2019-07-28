@@ -53,7 +53,7 @@ def main():
 
   num_pulls = 50
 
-  path = config.get('csv-filename')
+  path = config.get('csv-filename').format(**config)
   print('writing to path:', path)
   with Writer(path, ['title', 'slug', 'active_installs', 'relevance']) as writer:
     scrape(config, num_pulls, writer)
@@ -61,7 +61,8 @@ def main():
 def scrape(config, num_pulls, writer):
   for i in range(1, num_pulls):
     print('pulling page:', i)
-    html = cached_pull(config.get('url').format(i), secs_sleep_after_request=2)
+
+    html = cached_pull(config.get('url').format(page=i, **config), secs_sleep_after_request=2)
 
     plugin_links = []
     title_regex = (
@@ -75,12 +76,13 @@ def scrape(config, num_pulls, writer):
     ):
       slug, title = title_match.group(1), title_match.group(2)
       relevance = 0
-      query_str = config.get('query_str')
+      query_str = config.get("query_str")
       if query_str:
         for term in query_str.split():
           if term in title.lower():
             relevance = 1
             break
+      print("title:", title)
       print("active_installs:", active_installs_match.group(1))
       active_installs_str = re.sub('Fewer than 10', '0', active_installs_match.group(1))
       active_installs_str = re.sub('N/A', '0', active_installs_str)

@@ -1,4 +1,4 @@
 {
-  "url": "https://wordpress.org/plugins/browse/popular/page/{}/",
+  "url": "https://wordpress.org/plugins/browse/popular/page/{page}/",
   "csv-filename": "plugins-all.csv"
 }
