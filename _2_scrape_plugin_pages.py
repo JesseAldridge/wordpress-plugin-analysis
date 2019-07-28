@@ -7,7 +7,7 @@ def main():
     text = f.read()
   config_dict = json.loads(text)
 
-  with open(config_dict.get('csv-filename')) as f:
+  with open(config_dict.get('csv-filename').format(**config_dict)) as f:
     rows = [row for row in csv.reader(f)]
 
   review_count_regex = (
@@ -54,7 +54,7 @@ def main():
   write_results(new_rows, config_dict)
 
 def write_results(new_rows, config_dict):
-  with _1_scrape_plugins_list.Writer(config_dict.get('csv-filename'), [
+  with _1_scrape_plugins_list.Writer(config_dict.get('csv-filename').format(**config_dict), [
     'title', 'slug', 'my_score', 'weighted', 'active_installs', 'weighted', 'relevance',
     'weighted', 'review_count', 'weighted', 'avg_rating',
   ]) as writer:
