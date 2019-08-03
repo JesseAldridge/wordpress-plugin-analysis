@@ -16,13 +16,14 @@ def pull_svn(row):
   if not os.path.exists(repos_dir):
     os.mkdir(repos_dir)
   repo_dir = os.path.join(repos_dir, plugin_slug)
-  command_svn = [
-    'svn',
-    'checkout',
-    'https://plugins.svn.wordpress.org/{}/trunk'.format(plugin_slug),
-    repo_dir,
-  ]
-  subprocess.Popen(command_svn).communicate()
+  if(not os.path.exists(repo_dir)):
+    command_svn = [
+      'svn',
+      'checkout',
+      'https://plugins.svn.wordpress.org/{}/trunk'.format(plugin_slug),
+      repo_dir,
+    ]
+    subprocess.Popen(command_svn).communicate()
 
   std_out_str = subprocess.Popen(['tokei', repo_dir], stdout=subprocess.PIPE).communicate()[0]
   lines_of_code = None
@@ -34,7 +35,8 @@ def pull_svn(row):
   new_row = [x for x in row] + [lines_of_code]
   # go for low lines of code counts
   print('old score:', new_row[2])
-  new_row[2] = (float(new_row[2]) + -math.log(lines_of_code)) / 2
+  new_score = (float(new_row[2]) + -math.log(lines_of_code) if lines_of_code else 0) / 2
+  new_row[2] = round(new_score, 2)
   print('new score:', new_row[2])
   return new_row
 
