@@ -56,13 +56,12 @@ class Writer:
     self.writer.writerow(vals)
 
 def scrape_plugins(config_dict):
-  num_pulls = 50
-
   labels = ['title', 'slug', 'active_installs', 'relevance']
   with Writer(config_dict['csv-filename'], labels) as writer:
-    scrape(config_dict, num_pulls, writer)
+    scrape(config_dict, writer)
 
-def scrape(config, num_pulls, writer):
+def scrape(config, writer):
+  num_pulls = 50
   slugs_seen = set()
 
   for i in range(1, num_pulls):
