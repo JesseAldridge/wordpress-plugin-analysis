@@ -2,7 +2,7 @@ import os, re, shutil, json, csv, math
 
 import _1_scrape_plugins_list
 
-def augment_csv(process_row, new_labels):
+def _augment_csv(config_dict, process_row, new_labels):
   with open(config_dict['csv-filename']) as f:
     rows = [row for row in csv.reader(f)]
 
@@ -65,12 +65,17 @@ def write_results(new_rows, new_labels, config_dict):
       writer.write(row)
   print('wrote to:', path)
 
+def augment_csv(pull_plugin_details, new_labels):
+  _1_scrape_plugins_list.run_with_config(
+    lambda config_dict: _augment_csv(config_dict, pull_plugin_details, new_labels)
+  )
+
 def main():
   new_labels = [
     'title', 'slug', 'my_score', 'weighted', 'active_installs', 'weighted', 'relevance',
     'weighted', 'review_count', 'weighted', 'avg_rating',
   ]
-  _1_scrape_plugins_list.main(lambda: augment_csv(pull_plugin_details, new_labels))
+  augment_csv(pull_plugin_details, new_labels)
 
 if __name__ == '__main__':
   main()

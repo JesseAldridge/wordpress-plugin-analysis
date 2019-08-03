@@ -2,16 +2,25 @@ import re, time, os, shutil, csv, json
 
 import requests
 
-cache_dir_path = os.path.expanduser('~/wordpress_plugin_pages_cache')
+CACHE_DIR_PATH = os.path.expanduser('~/wordpress_plugin_pages_cache')
+
+def run_with_config(func):
+  with open('config.json') as f:
+    text = f.read()
+  config_dict = json.loads(text)
+  config_dict['csv-filename'] = os.path.expanduser(
+    config_dict['csv-filename'].format(**config_dict)
+  )
+  func(config_dict)
 
 def cached_pull(url, secs_sleep_after_request=None):
   url_filename = re.sub(r'[^A-Za-z0-9_\-]', '_', url)
-  cache_file_path = os.path.join(cache_dir_path, url_filename)
+  cache_file_path = os.path.join(CACHE_DIR_PATH, url_filename)
   if os.path.exists(cache_file_path):
     with open(cache_file_path) as f:
       return f.read()
-  if not os.path.exists(cache_dir_path):
-    os.mkdir(cache_dir_path)
+  if not os.path.exists(CACHE_DIR_PATH):
+    os.mkdir(CACHE_DIR_PATH)
 
   if secs_sleep_after_request:
     time.sleep(secs_sleep_after_request)
@@ -45,14 +54,6 @@ class Writer:
 
   def write(self, vals):
     self.writer.writerow(vals)
-
-def run_with_config(func):
-  with open('config.json') as f:
-    text = f.read()
-  config_dict = json.loads(text)
-  config_dict['csv-filename'] = os.path.expanduser(
-    config_dict['csv-filename'].format(**config_dict))
-  func(config_dict)
 
 def scrape_plugins(config_dict):
   num_pulls = 50
