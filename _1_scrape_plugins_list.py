@@ -13,7 +13,6 @@ def cached_pull(url, secs_sleep_after_request=None):
   if not os.path.exists(cache_dir_path):
     os.mkdir(cache_dir_path)
 
-  resp = requests.get(url)
   if secs_sleep_after_request:
     time.sleep(secs_sleep_after_request)
   out_str = resp.content.decode('utf-8')
@@ -28,41 +27,50 @@ def cached_pull(url, secs_sleep_after_request=None):
 '''
 
 class Writer:
-  def __init__(self, filename, column_labels):
-    self.filename = filename
-    if os.path.exists(filename):
-      shutil.move(filename, filename + '.old')
+  def __init__(self, path, column_labels):
+    self.path = os.path.expanduser(path)
+    if os.path.exists(path):
+      shutil.move(path, path + '.old')
     self.column_labels = column_labels
 
   def __enter__(self):
-    self.f = open(self.filename, 'w')
+    self.f = open(self.path, 'w')
     self.writer = csv.writer(self.f, lineterminator='\n')
     self.writer.writerow(self.column_labels)
     return self
 
   def __exit__(self, type, value, traceback):
     self.f.close()
+    print('wrote to path:', self.path)
 
   def write(self, vals):
     self.writer.writerow(vals)
 
-def main():
+def run_with_config(func):
   with open('config.json') as f:
     text = f.read()
-  config = json.loads(text)
+  config_dict = json.loads(text)
+  config_dict['csv-filename'] = os.path.expanduser(
+    config_dict['csv-filename'].format(**config_dict))
+  func(config_dict)
 
+def scrape_plugins(config_dict):
   num_pulls = 50
 
-  path = config.get('csv-filename').format(**config)
-  print('writing to path:', path)
-  with Writer(path, ['title', 'slug', 'active_installs', 'relevance']) as writer:
-    scrape(config, num_pulls, writer)
+  labels = ['title', 'slug', 'active_installs', 'relevance']
+  with Writer(config_dict['csv-filename'], labels) as writer:
+    scrape(config_dict, num_pulls, writer)
 
 def scrape(config, num_pulls, writer):
+  slugs_seen = set()
+
   for i in range(1, num_pulls):
     print('pulling page:', i)
 
     html = cached_pull(config.get('url').format(page=i, **config), secs_sleep_after_request=2)
+
+    if 'Showing results for:' not in html:
+      break
 
     plugin_links = []
     title_regex = (
@@ -75,6 +83,7 @@ def scrape(config, num_pulls, writer):
       re.finditer(active_installs_regex, html),
     ):
       slug, title = title_match.group(1), title_match.group(2)
+      slugs_seen.add(slug)
       relevance = 0
       query_str = config.get("query_str")
       if query_str:
@@ -107,4 +116,4 @@ def test():
 
 if __name__ == '__main__':
   test()
-  main()
+  run_with_config(scrape_plugins)
