@@ -8,7 +8,7 @@ config.json should look something like this:
 }
 ```
 
-python3 _1_scrape_plugins_list.py; python3 _2_scrape_plugin_pages.py
+./run.sh
 
 Then upload the generated csv file to Google Sheets.
 

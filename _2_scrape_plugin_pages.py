@@ -4,14 +4,20 @@ import _1_scrape_plugins_list
 
 def _augment_csv(config_dict, process_row, new_labels):
   with open(config_dict['csv-filename']) as f:
-    rows = [row for row in csv.reader(f)]
+    rows = [row for row in csv.reader(f)][1:]
 
   if not rows:
     print("no rows")
     return
 
   new_rows = []
-  for irow, row in enumerate(rows[1:]):
+  start = config_dict.get('start') or 1
+  limit = config_dict.get('limit')
+  end = len(rows)
+  if limit:
+    end = min(start + limit, end)
+  for irow in range(start, end):
+    row = rows[irow]
     print("{:>4}/{:<4}: {}".format(irow + 1, len(rows), row))
     new_rows.append(process_row(row))
     if irow % 100 == 0:

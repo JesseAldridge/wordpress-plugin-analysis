@@ -22,11 +22,13 @@ def cached_pull(url, secs_sleep_after_request=None):
   if not os.path.exists(CACHE_DIR_PATH):
     os.mkdir(CACHE_DIR_PATH)
 
-  if secs_sleep_after_request:
-    time.sleep(secs_sleep_after_request)
+  resp = requests.get(url)
   out_str = resp.content.decode('utf-8')
   with open(cache_file_path, 'w') as f:
     f.write(out_str)
+
+  if secs_sleep_after_request:
+    time.sleep(secs_sleep_after_request)
   return out_str
 
 '''
