@@ -1,5 +1,5 @@
 {
   "url": "https://wordpress.org/plugins/search/{query_str}/page/{page}/",
-  "csv-filename": "data/plugins-{query_str}.csv",
+  "csv-filename": "~/Dropbox/wordpress_stuff/plugin-analysis-data/plugins-{query_str}.csv",
   "query_str": "booking"
 }
