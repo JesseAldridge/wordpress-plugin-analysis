@@ -11,7 +11,7 @@ def _augment_csv(config_dict, process_row, new_labels):
     return
 
   new_rows = []
-  start = config_dict.get('start') or 1
+  start = config_dict.get('start') or 0
   limit = config_dict.get('limit')
   end = len(rows)
   if limit:
@@ -78,8 +78,8 @@ def augment_csv(pull_plugin_details, new_labels):
 
 def main():
   new_labels = [
-    'title', 'slug', 'my_score', 'weighted', 'active_installs', 'weighted', 'relevance',
-    'weighted', 'review_count', 'weighted', 'avg_rating',
+    'title', 'slug', 'my_score', 'weighted >', 'active_installs', 'weighted >', 'relevance',
+    'weighted >', 'review_count', 'weighted >', 'avg_rating',
   ]
   augment_csv(pull_plugin_details, new_labels)
 

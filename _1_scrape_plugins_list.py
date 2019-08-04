@@ -69,7 +69,7 @@ def scrape(config, writer):
   for i in range(1, num_pulls):
     print('pulling page:', i)
 
-    html = cached_pull(config.get('url').format(page=i, **config), secs_sleep_after_request=2)
+    html = cached_pull(config.get('url').format(page=i, **config))
 
     if 'Showing results for:' not in html:
       break

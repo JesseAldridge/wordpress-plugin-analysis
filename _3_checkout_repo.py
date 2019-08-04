@@ -4,8 +4,8 @@ import _2_scrape_plugin_pages
 
 def main():
   new_labels = [
-    'title', 'slug', 'my_score', 'weighted', 'active_installs', 'weighted', 'relevance',
-    'weighted', 'review_count', 'weighted', 'avg_rating', 'lines_of_code',
+    'title', 'slug', 'my_score', 'weighted >', 'active_installs', 'weighted >', 'relevance',
+    'weighted >', 'review_count', 'weighted >', 'avg_rating', 'lines_of_code',
   ]
   _2_scrape_plugin_pages.augment_csv(pull_svn, new_labels)
 
