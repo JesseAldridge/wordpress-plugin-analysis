@@ -34,7 +34,7 @@ def pull_plugin_details(row):
   title, plugin_slug, active_installs, relevance = row[:4]
   active_installs, relevance = int(active_installs), float(relevance)
   reviews_url = 'https://wordpress.org/support/plugin/{}/reviews/'.format(plugin_slug)
-  html = _1_scrape_plugins_list.cached_pull(reviews_url, secs_sleep_after_request=2)
+  html = _1_scrape_plugins_list.cached_pull(reviews_url, secs_sleep_after_request=0)
   match = re.search(review_count_regex, html)
   review_count_str = match.group(1)
   review_count = int(re.sub(',', '', review_count_str))

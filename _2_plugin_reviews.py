@@ -32,7 +32,7 @@ with _1_scrape_plugins_list.Writer(out_path, column_names) as writer:
     reviews_url = (
       'https://wordpress.org/support/plugin/{}/reviews/page/{}'.format(plugin_slug, page_number)
     )
-    list_html = _1_scrape_plugins_list.cached_pull(reviews_url, secs_sleep_after_request=2)
+    list_html = _1_scrape_plugins_list.cached_pull(reviews_url, secs_sleep_after_request=1)
 
     # https://wordpress.org/support/plugin/elementor/reviews/page/1
     # ~/wordpress_plugin_pages_cache/https___wordpress_org_support_plugin_elementor_reviews_
@@ -40,7 +40,7 @@ with _1_scrape_plugins_list.Writer(out_path, column_names) as writer:
     for review_url_match in list(re.finditer(review_url_regex, list_html)):
       review_url = review_url_match.group(1)
       print("pulling:", review_url)
-      review_html = _1_scrape_plugins_list.cached_pull(review_url, secs_sleep_after_request=2)
+      review_html = _1_scrape_plugins_list.cached_pull(review_url, secs_sleep_after_request=1)
 
       # https://wordpress.org/support/topic/excellent-plugin-a-great-help-for-anyone/
 
